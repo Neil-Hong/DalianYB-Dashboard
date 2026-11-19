@@ -1,0 +1,46 @@
+/* Styles for Modal (src/components/Modal.tsx). Rules inside @scope apply only within that component; its own root element is :scope. */
+
+  html:has(dialog.modal[open]) { overflow: hidden; }
+
+  dialog.modal {
+    border: 0; padding: 0; background: transparent; color: var(--text);
+    width: min(920px, 100% - 32px); max-width: none; max-height: min(88dvh, 920px);
+    overflow: visible;
+  }
+  dialog.modal::backdrop { background: rgb(4 10 28 / .55); backdrop-filter: blur(4px); opacity: 1; transition: opacity .3s; }
+  .modal-card {
+    display: flex; flex-direction: column; max-height: min(88dvh, 920px);
+    background: var(--surface); border-radius: 18px; overflow: hidden;
+    border-top: 4px solid var(--gold);
+    box-shadow: 0 30px 80px rgb(4 12 36 / .45), 0 0 0 1px rgb(255 255 255 / .04);
+    opacity: 1; transform: none;
+    transition: opacity .28s ease, transform .38s cubic-bezier(.2, .9, .25, 1.05);
+  }
+  @starting-style {
+    dialog.modal[open] .modal-card { opacity: 0; transform: translateY(14px) scale(.95); }
+    dialog.modal[open]::backdrop { opacity: 0; }
+  }
+  dialog.modal.closing .modal-card { opacity: 0; transform: translateY(10px) scale(.97); transition-duration: .22s; }
+  dialog.modal.closing::backdrop { opacity: 0; }
+
+  .modal-head {
+    display: flex; justify-content: space-between; align-items: flex-start; gap: 16px;
+    padding: 18px 18px 14px 22px; border-bottom: 1px solid var(--line);
+  }
+  .modal-head h2 { font-size: 20px; }
+  .modal-head p { margin: 4px 0 0; font-size: 13px; color: var(--muted); }
+  .modal-x {
+    flex: none; width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--line); background: var(--bg);
+    display: grid; place-items: center; cursor: pointer; color: var(--text); transition: background .2s, transform .25s, border-color .2s;
+  }
+  .modal-x svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; }
+  .modal-x:hover, .modal-x:focus-visible { background: var(--gold); border-color: var(--gold); color: var(--navy-ink); transform: rotate(90deg); outline: none; }
+  .modal-body { overflow: auto; overscroll-behavior: contain; padding: 8px 22px 22px; }
+
+  @media (max-width: 560px) {
+    dialog.modal { width: calc(100% - 20px); }
+    .modal-body { padding: 6px 14px 16px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .modal-card, dialog.modal::backdrop { transition: none; }
+  }

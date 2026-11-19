@@ -1,0 +1,310 @@
+{
+  "id": "50250381",
+  "name_en": "Mamadou Traoré",
+  "nationality": "马里",
+  "birth_date": "1994-10-03",
+  "height": 191,
+  "weight": 70,
+  "foot": "右脚",
+  "number": 2,
+  "position_zh": "后卫",
+  "market_value_eur": 600000,
+  "ability": {
+    "overall": 69,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 65
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 73
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 68
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 55
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 54
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 32
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 2,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 29,
+      "starts": 28,
+      "goals": 2,
+      "assists": 1,
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "大连英博",
+      "apps": 22,
+      "starts": 21,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "北京国安",
+      "apps": 27,
+      "starts": 26,
+      "goals": 0,
+      "assists": 1,
+      "yellow": 3,
+      "red": 1
+    },
+    {
+      "season": "2023/2024",
+      "club": "穆艾德尔",
+      "apps": 9,
+      "starts": 9,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2023/2024",
+      "club": "伏伊伏丁那",
+      "apps": 3,
+      "starts": 2,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2022/2023",
+      "club": "伏伊伏丁那",
+      "apps": 31,
+      "starts": 28,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2021/2022",
+      "club": "阿马多拉之星",
+      "apps": 29,
+      "starts": 28,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 10,
+      "red": 1
+    },
+    {
+      "season": "2020/2021",
+      "club": "托里什人联合",
+      "apps": 3,
+      "starts": 3,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2019/2020",
+      "club": "马德拉航海二队",
+      "apps": 3,
+      "starts": 3,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2018/2019",
+      "club": "马德拉航海二队",
+      "apps": 9,
+      "starts": 9,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2018/2019",
+      "club": "马德拉航海",
+      "apps": 1,
+      "starts": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2017/2018",
+      "club": "马德拉航海二队",
+      "apps": 23,
+      "starts": 18,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "season": "2016/2017",
+      "club": "马德拉航海二队",
+      "apps": 3,
+      "starts": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2015/2016",
+      "club": "普拉坦斯",
+      "apps": 19,
+      "starts": 12,
+      "goals": 4,
+      "assists": 0,
+      "yellow": 3,
+      "red": 1
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2025-01-15",
+      "from": "北京国安",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BB/rBUESWHUILmAZO2QAABrjKx8wJM240.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2024-02-14",
+      "from": "穆艾德尔",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/39/5C/rBUC6GW3eGqACp9SAACpmZJaOyw975.png",
+      "to": "北京国安",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BB/rBUESWHUILmAZO2QAABrjKx8wJM240.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-08-13",
+      "from": "伏伊伏丁那",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7D/ChOxM1xC2ROAJ3wVAAANhUdS9s0110.png",
+      "to": "穆艾德尔",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/39/5C/rBUC6GW3eGqACp9SAACpmZJaOyw975.png",
+      "type": "转会",
+      "fee": "40万欧",
+      "fee_eur": 400000
+    },
+    {
+      "date": "2022-07-08",
+      "from": "阿马多拉之星",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/5A/4C/rBUESWGdrISAUN5BAAA5F2wJTjI225.png",
+      "to": "伏伊伏丁那",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7D/ChOxM1xC2ROAJ3wVAAANhUdS9s0110.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-07-02",
+      "from": "托里什人联合",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/1E/F7/rB8BO17iRLmAJOBIAABwfFDuXRY928.png",
+      "to": "阿马多拉之星",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/5A/4C/rBUESWGdrISAUN5BAAA5F2wJTjI225.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-07-01",
+      "from": "马德拉航海U23",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/B4/46/rBUCgGK6vpSAZjNnAACeyduKUyo276.png",
+      "to": "托里什人联合",
+      "to_logo": "https://sd.qunliao.info/fastdfs5/M00/1E/F7/rB8BO17iRLmAJOBIAABwfFDuXRY928.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2018-07-01",
+      "from": "马德拉航海二队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/B4/46/rBUCgGK6vpSAZjNnAACeyduKUyo276.png",
+      "to": "马德拉航海U23",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/B4/46/rBUCgGK6vpSAZjNnAACeyduKUyo276.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2017-01-03",
+      "from": "里斯本上城",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/9A/CA/rBUBsmarNbiAdLBxAABX5c3D4PE787.png",
+      "to": "马德拉航海二队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/B4/46/rBUCgGK6vpSAZjNnAACeyduKUyo276.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2017-01-01",
+      "from": "普拉坦斯",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/52/64/rBUBsmlIqAaAAZzjAAAtEP1gND0072.png",
+      "to": "里斯本上城",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/9A/CA/rBUBsmarNbiAdLBxAABX5c3D4PE787.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "马马杜-特拉奥雷",
+  "age": 32,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3C/rBXRn2r2x5yAYpqnAAAYm-5lWvk267.jpg",
+  "position": "defender",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 29,
+    "goals": 2,
+    "assists": 1
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50250381.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

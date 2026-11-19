@@ -1,0 +1,84 @@
+/* Styles for PlayerView (src/views/PlayerView.tsx). Rules inside @scope apply only within that component; its own root element is :scope. */
+
+@scope (.v-player) {
+  .phero { background: linear-gradient(140deg, var(--navy) 0%, var(--navy-deep) 60%, var(--navy-ink) 100%); color: #fff; }
+  .phero-inner { display: flex; align-items: center; gap: 28px; padding: 40px 0 56px; }
+  .avatar { position: relative; flex: none; }
+  .avatar img { width: 140px; height: 140px; border-radius: 50%; object-fit: cover; object-position: top; border: 4px solid var(--gold); background: #dfe5f2; }
+  .pnum { position: absolute; right: -6px; bottom: 0; background: var(--gold); color: var(--navy-ink); font-weight: 900; font-size: 20px; min-width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; }
+  .eyebrow.light { color: #aab6d6; }
+  .phero h1 { font-size: clamp(30px, 5vw, 48px); font-weight: 900; margin-top: 6px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .psub { margin: 2px 0 0; color: #c9d3ec; letter-spacing: .08em; }
+  .pstats { display: flex; gap: 32px; margin: 20px 0 0; flex-wrap: wrap; }
+  .pstats dt { font-size: 12px; color: #aab6d6; }
+  .pstats dd { margin: 0; font-size: 30px; font-weight: 800; }
+  .u21 { background: var(--gold); color: var(--navy-ink); border: 0; }
+  @media (max-width: 560px) {
+    .phero-inner { flex-direction: column; align-items: flex-start; gap: 18px; padding: 28px 0 48px; }
+    .avatar img { width: 104px; height: 104px; }
+    .pstats { gap: 22px; }
+  }
+
+  .pmain { display: grid; grid-template-columns: minmax(0, 1fr); gap: 20px; margin-top: -28px; position: relative; }
+  .row-top { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 20px; align-items: stretch; }
+  .row-mid { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 20px; align-items: start; }
+  .row-mid.solo { grid-template-columns: minmax(0, 1fr); }
+  @media (max-width: 900px) { .row-top, .row-mid { grid-template-columns: minmax(0, 1fr); } }
+
+  .info dl { margin: 0; }
+  .info dl div { display: flex; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+  .info dt { color: var(--muted); }
+  .info dd { margin: 0; font-weight: 600; text-align: right; }
+  .src { margin: 14px 0 0; font-size: 13px; }
+  .src a { color: var(--muted); }
+  .muted { color: var(--muted); font-size: 13px; }
+
+  /* honours */
+  .honours { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
+  .honours li {
+    position: relative; display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-radius: 12px; overflow: hidden;
+    background: linear-gradient(135deg, var(--surface), var(--bg)); border: 1px solid var(--line);
+    transition: transform .25s cubic-bezier(.2, .8, .2, 1), box-shadow .25s, border-color .25s;
+    animation: h-in .5s calc(var(--i) * 50ms) both cubic-bezier(.2, .8, .2, 1);
+  }
+  .honours li::after {
+    content: ""; position: absolute; inset: 0; pointer-events: none; translate: -120% 0;
+    background: linear-gradient(105deg, transparent 35%, rgb(255 230 160 / .3), transparent 65%); transition: translate .7s;
+  }
+  .honours li:hover { transform: translateY(-2px); border-color: rgb(232 180 35 / .55); box-shadow: 0 8px 22px rgb(10 25 60 / .1); }
+  .honours li:hover::after { translate: 120% 0; }
+  .h-icon {
+    flex: none; width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center;
+    background: radial-gradient(circle at 35% 30%, #fffaf0, #f6e3a8 62%, #dcae3c);
+    box-shadow: inset 0 0 0 2px rgb(255 255 255 / .7), 0 3px 10px rgb(176 131 0 / .25);
+  }
+  .h-icon img { width: 38px; height: 38px; object-fit: contain; }
+  .h-icon svg { width: 26px; height: 26px; fill: none; stroke: #8a6100; stroke-width: 1.7; stroke-linejoin: round; stroke-linecap: round; }
+  .h-name { flex: 1; min-width: 0; font-size: 14px; font-weight: 600; line-height: 1.3; }
+  .h-count { flex: none; font-size: 20px; font-weight: 900; color: #b08300; }
+  .h-count small { font-size: 12px; font-weight: 700; margin-right: 1px; }
+  @media (prefers-color-scheme: dark) { .h-count { color: var(--gold); } }
+  @keyframes h-in { from { opacity: 0; transform: translateY(8px); } }
+
+  .injuries { list-style: none; padding: 0; margin: 0; }
+  .injuries li { display: flex; flex-direction: column; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+  .injuries li:last-child { border-bottom: 0; }
+  .injuries small { color: var(--muted); }
+
+  /* "view all" row under career / transfers */
+  .more { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--line); }
+  .more-btn {
+    font: inherit; font-size: 14px; font-weight: 700; display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+    padding: 9px 14px 9px 18px; border-radius: 999px; border: 1px solid var(--navy); background: transparent; color: var(--navy);
+    transition: background .2s, color .2s, box-shadow .2s, transform .15s;
+  }
+  .more-btn svg { transition: transform .2s; }
+  .more-btn:hover, .more-btn:focus-visible { background: var(--navy); color: #fff; box-shadow: 0 6px 18px rgb(21 59 145 / .3); outline: none; }
+  .more-btn:hover svg { transform: translateX(3px); }
+  .more-btn:active { transform: scale(.97); }
+  @media (prefers-color-scheme: dark) {
+    .more-btn { border-color: var(--gold); color: var(--gold); }
+    .more-btn:hover, .more-btn:focus-visible { background: var(--gold); color: var(--navy-ink); box-shadow: 0 6px 18px rgb(232 180 35 / .25); }
+  }
+  @media (prefers-reduced-motion: reduce) { .honours li { animation: none; } }
+}

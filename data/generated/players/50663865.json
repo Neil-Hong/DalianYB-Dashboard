@@ -1,0 +1,98 @@
+{
+  "id": "50663865",
+  "name_en": "Ge Peng",
+  "nationality": "中国",
+  "birth_date": "2000-07-20",
+  "height": 188,
+  "weight": 87,
+  "number": 1,
+  "position_zh": "门将",
+  "market_value_eur": 25000,
+  "ability": {
+    "overall": 48,
+    "attributes": [
+      {
+        "key": "diving",
+        "label_zh": "扑救",
+        "value": 46
+      },
+      {
+        "key": "positioning",
+        "label_zh": "位置",
+        "value": 53
+      },
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 27
+      },
+      {
+        "key": "reflexes",
+        "label_zh": "反应",
+        "value": 48
+      },
+      {
+        "key": "kicking",
+        "label_zh": "开球",
+        "value": 51
+      },
+      {
+        "key": "handling",
+        "label_zh": "手型",
+        "value": 48
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 1
+    }
+  },
+  "career": [
+    {
+      "season": "2024",
+      "club": "大连英博",
+      "apps": 6,
+      "starts": 6,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "大连智行",
+      "apps": 24,
+      "starts": 24,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    }
+  ],
+  "transfers": [],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "葛彭",
+  "age": 26,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/54/rBXRDGr2yNeAJ3sEAAAa4nHC_SA783.jpg",
+  "position": "goalkeeper",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": null,
+    "saves": null,
+    "clearances": null
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50663865.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "id": "50127576",
+  "name_en": "Isnik Alimi",
+  "nationality": "北马其顿/阿尔巴尼亚",
+  "birth_date": "1994-02-02",
+  "height": 186,
+  "weight": 77,
+  "foot": "左脚",
+  "number": 4,
+  "position_zh": "中场",
+  "market_value_eur": 500000,
+  "ability": {
+    "overall": 69,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 66
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 75
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 64
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 66
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 67
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 62
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 30,
+      "starts": 30,
+      "goals": 2,
+      "assists": 1,
+      "yellow": 6,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "大连英博",
+      "apps": 26,
+      "starts": 24,
+      "goals": 0,
+      "assists": 1,
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "season": "2024/2025",
+      "club": "圣格奥尔基",
+      "apps": 18,
+      "starts": 16,
+      "goals": 4,
+      "assists": 2,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2023/2024",
+      "club": "圣格奥尔基",
+      "apps": 37,
+      "starts": 29,
+      "goals": 9,
+      "assists": 3,
+      "yellow": 9,
+      "red": 0
+    },
+    {
+      "season": "2022/2023",
+      "club": "卡巴拉",
+      "apps": 2,
+      "starts": 2,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2021/2022",
+      "club": "卡巴拉",
+      "apps": 27,
+      "starts": 27,
+      "goals": 7,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2020/2021",
+      "club": "希贝尼克",
+      "apps": 21,
+      "starts": 10,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 5,
+      "red": 0
+    },
+    {
+      "season": "2019/2020",
+      "club": "伊莫莱塞",
+      "apps": 27,
+      "starts": 19,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 8,
+      "red": 0
+    },
+    {
+      "season": "2018/2019",
+      "club": "里米尼",
+      "apps": 33,
+      "starts": 28,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 12,
+      "red": 1
+    },
+    {
+      "season": "2017/2018",
+      "club": "维琴察",
+      "apps": 34,
+      "starts": 28,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 8,
+      "red": 0
+    },
+    {
+      "season": "2016/2017",
+      "club": "佛利",
+      "apps": 31,
+      "starts": 22,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 7,
+      "red": 0
+    },
+    {
+      "season": "2015/2016",
+      "club": "马塞拉特斯",
+      "apps": 13,
+      "starts": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2014/2015",
+      "club": "卢梅扎内",
+      "apps": 27,
+      "starts": 21,
+      "goals": 2,
+      "assists": 0,
+      "yellow": 6,
+      "red": 1
+    },
+    {
+      "season": "2011/2012",
+      "club": "FK奥赫里德",
+      "apps": 14,
+      "starts": 10,
+      "goals": 2,
+      "assists": 0,
+      "yellow": 2,
+      "red": 1
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2025-01-20",
+      "from": "圣格奥尔基",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/91/ChOxM1xC3EqAOSKvAABsWj0ev9A315.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "转会",
+      "fee": "40万欧",
+      "fee_eur": 400000
+    },
+    {
+      "date": "2023-07-01",
+      "from": "卡巴拉",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/87/ChOxM1xC2jGAWE86AAATC28GBlw820.png",
+      "to": "圣格奥尔基",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/91/ChOxM1xC3EqAOSKvAABsWj0ev9A315.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-07-30",
+      "from": "亚特兰大",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "to": "卡巴拉",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/87/ChOxM1xC2jGAWE86AAATC28GBlw820.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-06-30",
+      "from": "希贝尼克",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/6B/F6/rBUC6GYohCKARihuAAA25p-xBNU513.png",
+      "to": "亚特兰大",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-09-18",
+      "from": "亚特兰大",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "to": "希贝尼克",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/6B/F6/rBUC6GYohCKARihuAAA25p-xBNU513.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-06-30",
+      "from": "伊莫莱塞",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/91/ChOxM1xC3CqAfxWoAAB7UZ7EIEA177.png",
+      "to": "亚特兰大",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2019-08-09",
+      "from": "亚特兰大",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "to": "伊莫莱塞",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/91/ChOxM1xC3CqAfxWoAAB7UZ7EIEA177.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2019-08-08",
+      "from": "里米尼",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/A0/E0/rBUC6GawaHiANHqWAABQXwkRW6I180.png",
+      "to": "亚特兰大",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2018-07-07",
+      "from": "亚特兰大",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "to": "里米尼",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/A0/E0/rBUC6GawaHiANHqWAABQXwkRW6I180.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2018-05-31",
+      "from": "维琴察",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/5B/C3/rB8CCl_RgFqAOZ-wAAAwCfDqPqI829.png",
+      "to": "亚特兰大",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2017-07-22",
+      "from": "亚特兰大",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "to": "维琴察",
+      "to_logo": "https://sd.qunliao.info/fastdfs5/M00/5B/C3/rB8CCl_RgFqAOZ-wAAAwCfDqPqI829.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2017-06-30",
+      "from": "佛利",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/20/D0/rB8CCl7sZgaAW7F9AAB4uJwjRVc490.png",
+      "to": "亚特兰大",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2016-08-31",
+      "from": "亚特兰大",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "to": "佛利",
+      "to_logo": "https://sd.qunliao.info/fastdfs5/M00/20/D0/rB8CCl7sZgaAW7F9AAB4uJwjRVc490.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2016-06-30",
+      "from": "马塞拉特斯",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/21/5F/rB8CCl7vHveAUMTpAABf4b3vRg8552.png",
+      "to": "亚特兰大",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2015-08-31",
+      "from": "亚特兰大",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "to": "马塞拉特斯",
+      "to_logo": "https://sd.qunliao.info/fastdfs5/M00/21/5F/rB8CCl7vHveAUMTpAABf4b3vRg8552.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2015-07-01",
+      "from": "切沃",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2KuALvjwAAAZW7LWw4U261.png",
+      "to": "亚特兰大",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/DD/81/rBXRDGoQR4eAN3DGAABHUf3g6wM641.png",
+      "type": "转会",
+      "fee": "120万欧",
+      "fee_eur": 1200000
+    },
+    {
+      "date": "2015-06-30",
+      "from": "卢梅扎内",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/14/BF/rB8CCl6mW96APcgBAABwsSe3w6c596.png",
+      "to": "切沃",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2KuALvjwAAAZW7LWw4U261.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2014-08-06",
+      "from": "切沃U19",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/79/ChOxM1xC2KuALvjwAAAZW7LWw4U261.png",
+      "to": "卢梅扎内",
+      "to_logo": "https://sd.qunliao.info/fastdfs5/M00/14/BF/rB8CCl6mW96APcgBAABwsSe3w6c596.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    },
+    {
+      "name": "阿塞拜疆杯冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/DF/rBUESWGKKAaAdUPqAADZwvi7vaU458.png"
+    },
+    {
+      "name": "意大利足球U19联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/DF/rBUESWGKKAaAdUPqAADZwvi7vaU458.png"
+    }
+  ],
+  "injuries": [
+    {
+      "team": "圣格奥尔基",
+      "type": "膝盖瘀伤",
+      "from": "2024-01-06",
+      "to": "2024-03-28"
+    },
+    {
+      "team": "伊莫莱塞",
+      "type": "未知伤病",
+      "from": "2019-11-08",
+      "to": "2019-11-22"
+    },
+    {
+      "team": "里米尼",
+      "type": "腹股沟疼痛",
+      "from": "2018-11-04",
+      "to": "2018-11-15"
+    }
+  ],
+  "name_zh": "阿利米",
+  "age": 32,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/B1/rBXRDGrcTquAXvCRAAAdGeEX2Qc706.jpg",
+  "position": "midfielder",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 30,
+    "goals": 2,
+    "assists": 1
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50127576.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

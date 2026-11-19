@@ -1,0 +1,10 @@
+/* Styles for NewsView (src/views/NewsView.tsx). Rules inside @scope apply only within that component; its own root element is :scope. */
+
+@scope (.v-news) {
+  .months { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 14px; }
+  .months a { text-decoration: none; padding: 4px 12px; border-radius: 999px; border: 1px solid var(--line); font-size: 14px; background: var(--surface); }
+  .months a.active { background: var(--navy); color: #fff; border-color: var(--navy); }
+  .day h2 { font-size: 15px; color: var(--muted); font-weight: 600; margin: 24px 0 10px; }
+  .feed { list-style: none; margin: 0; padding: 0; }
+  .more { color: var(--muted); font-size: 14px; text-align: center; margin-top: 24px; }
+}

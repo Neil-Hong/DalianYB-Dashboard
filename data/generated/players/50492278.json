@@ -1,0 +1,215 @@
+{
+  "id": "50492278",
+  "name_en": "Liao Jintao",
+  "nationality": "中国",
+  "birth_date": "2000-02-24",
+  "height": 180,
+  "weight": 65,
+  "foot": "右脚",
+  "number": 40,
+  "position_zh": "中场",
+  "market_value_eur": 500000,
+  "ability": {
+    "overall": 64,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 63
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 71
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 60
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 60
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 62
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 44
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 32,
+      "starts": 30,
+      "goals": 2,
+      "assists": 1,
+      "yellow": 6,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "大连英博",
+      "apps": 31,
+      "starts": 28,
+      "goals": 0,
+      "assists": 2,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "广州",
+      "apps": 29,
+      "starts": 28,
+      "goals": 4,
+      "assists": 2,
+      "yellow": 9,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "广州",
+      "apps": 28,
+      "starts": 25,
+      "goals": 1,
+      "assists": 1,
+      "yellow": 8,
+      "red": 0
+    },
+    {
+      "season": "2022",
+      "club": "昆山",
+      "apps": 6,
+      "starts": 3,
+      "goals": 0,
+      "assists": 1,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2021",
+      "club": "广州",
+      "apps": 7,
+      "starts": 7,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2020",
+      "club": "广州恒大淘宝",
+      "apps": 1,
+      "starts": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2025-01-17",
+      "from": "广州",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/C0/A6/ChOxM1xSnI-AHbEpAABzij0bifo535.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-04-06",
+      "from": "昆山",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8E/ChOxM1xC23eAbm3jAAC2cw8Rlmo368.png",
+      "to": "广州",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/C0/A6/ChOxM1xSnI-AHbEpAABzij0bifo535.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2022-04-26",
+      "from": "广州U21",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/C0/A6/ChOxM1xSnI-AHbEpAABzij0bifo535.png",
+      "to": "昆山",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8E/ChOxM1xC23eAbm3jAAC2cw8Rlmo368.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-04-01",
+      "from": "广州预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/C0/A6/ChOxM1xSnI-AHbEpAABzij0bifo535.png",
+      "to": "广州U21",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/C0/A6/ChOxM1xSnI-AHbEpAABzij0bifo535.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-01-20",
+      "from": "武汉三镇",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTu2AJbV0AABgSzGBSuk267.png",
+      "to": "广州预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/C0/A6/ChOxM1xSnI-AHbEpAABzij0bifo535.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2019-02-28",
+      "from": "广州U19",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/86/ChOxM1xC2h2AYKA9AAAkB08wkQ4733.png",
+      "to": "武汉三镇",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTu2AJbV0AABgSzGBSuk267.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    },
+    {
+      "name": "中国足球甲级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUESWGKLryAX9qcAADuuRCiJII964.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "廖锦涛",
+  "age": 26,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/4C/CD/rBXRn2l5vmuAXvLQAAG5OxsyaxE069.png",
+  "position": "midfielder",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 32,
+    "goals": 2,
+    "assists": 1
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50492278.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

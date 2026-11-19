@@ -1,0 +1,389 @@
+{
+  "id": "50149231",
+  "name_en": "Frank Acheampong",
+  "nationality": "加纳",
+  "birth_date": "1993-10-16",
+  "height": 172,
+  "weight": 70,
+  "foot": "左脚",
+  "number": 30,
+  "position_zh": "前锋",
+  "market_value_eur": 500000,
+  "ability": {
+    "overall": 71,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 91
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 73
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 44
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 73
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 64
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 68
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 4
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 33,
+      "starts": 33,
+      "goals": 12,
+      "assists": 6,
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "河南",
+      "apps": 34,
+      "starts": 32,
+      "goals": 15,
+      "assists": 3,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "河南",
+      "apps": 25,
+      "starts": 22,
+      "goals": 3,
+      "assists": 2,
+      "yellow": 0,
+      "red": 1
+    },
+    {
+      "season": "2023",
+      "club": "深圳",
+      "apps": 14,
+      "starts": 12,
+      "goals": 5,
+      "assists": 2,
+      "yellow": 1,
+      "red": 1
+    },
+    {
+      "season": "2022",
+      "club": "深圳",
+      "apps": 24,
+      "starts": 23,
+      "goals": 8,
+      "assists": 1,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2021",
+      "club": "深圳",
+      "apps": 25,
+      "starts": 22,
+      "goals": 5,
+      "assists": 1,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2020",
+      "club": "天津泰达",
+      "apps": 22,
+      "starts": 22,
+      "goals": 5,
+      "assists": 2,
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "season": "2019",
+      "club": "天津泰达",
+      "apps": 31,
+      "starts": 30,
+      "goals": 9,
+      "assists": 9,
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "season": "2018",
+      "club": "天津泰达",
+      "apps": 26,
+      "starts": 26,
+      "goals": 17,
+      "assists": 1,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2017",
+      "club": "天津亿利",
+      "apps": 12,
+      "starts": 12,
+      "goals": 4,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2016/2017",
+      "club": "安德莱赫特",
+      "apps": 47,
+      "starts": 30,
+      "goals": 6,
+      "assists": 2,
+      "yellow": 5,
+      "red": 0
+    },
+    {
+      "season": "2015/2016",
+      "club": "安德莱赫特",
+      "apps": 38,
+      "starts": 27,
+      "goals": 9,
+      "assists": 4,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2014/2015",
+      "club": "安德莱赫特",
+      "apps": 48,
+      "starts": 33,
+      "goals": 3,
+      "assists": 5,
+      "yellow": 5,
+      "red": 0
+    },
+    {
+      "season": "2013/2014",
+      "club": "安德莱赫特",
+      "apps": 32,
+      "starts": 11,
+      "goals": 4,
+      "assists": 3,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2012",
+      "club": "武里南联",
+      "apps": 6,
+      "starts": 6,
+      "goals": 1,
+      "assists": 2,
+      "yellow": 0,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2026-02-21",
+      "from": "河南",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/16/D1/rBUESWQwC4aALFAMAAB8iqXx5Xk222.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2024-02-09",
+      "from": "深圳",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/86/ChOxM1xC2hmAE6VbAAAfHotDTR8651.png",
+      "to": "河南",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/16/D1/rBUESWQwC4aALFAMAAB8iqXx5Xk222.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-04-12",
+      "from": "天津津门虎",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/06/08/rBUCgGB2x6eAewcfAACQzgjTP-w378.png",
+      "to": "深圳",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/86/ChOxM1xC2hmAE6VbAAAfHotDTR8651.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2018-01-01",
+      "from": "安德莱赫特",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/A3/59/rBUCgGTMZw-AC8-YAABHeZOl7iQ345.png",
+      "to": "天津泰达",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DqAI6T3AAARQespZsA516.png",
+      "type": "转会",
+      "fee": "350万欧",
+      "fee_eur": 3500000
+    },
+    {
+      "date": "2017-12-31",
+      "from": "天津亿利",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DqAI6T3AAARQespZsA516.png",
+      "to": "安德莱赫特",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/A3/59/rBUCgGTMZw-AC8-YAABHeZOl7iQ345.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2017-07-13",
+      "from": "安德莱赫特",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/A3/59/rBUCgGTMZw-AC8-YAABHeZOl7iQ345.png",
+      "to": "天津亿利",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DqAI6T3AAARQespZsA516.png",
+      "type": "租借",
+      "fee": "300万欧",
+      "fee_eur": 3000000
+    },
+    {
+      "date": "2013-07-01",
+      "from": "武里南联",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/FA/9F/rBUBsme3BZ-AFWXQAABqwA9iy1Q542.png",
+      "to": "安德莱赫特",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/A3/59/rBUCgGTMZw-AC8-YAABHeZOl7iQ345.png",
+      "type": "转会",
+      "fee": "100万欧",
+      "fee_eur": 1000000
+    },
+    {
+      "date": "2013-06-30",
+      "from": "安德莱赫特",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/A3/59/rBUCgGTMZw-AC8-YAABHeZOl7iQ345.png",
+      "to": "武里南联",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/FA/9F/rBUBsme3BZ-AFWXQAABqwA9iy1Q542.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2013-01-28",
+      "from": "武里南联",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/FA/9F/rBUBsme3BZ-AFWXQAABqwA9iy1Q542.png",
+      "to": "安德莱赫特",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/A3/59/rBUCgGTMZw-AC8-YAABHeZOl7iQ345.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2011-02-01",
+      "from": "贝切姆联",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/08/AB/rBUCgGRUfx-AQBwRAACSpnwb5zk748.png",
+      "to": "武里南联",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/FA/9F/rBUBsme3BZ-AFWXQAABqwA9iy1Q542.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2010-07-01",
+      "from": "费萨尔国王",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/FF/BE/ChNLkl45JuWALb8GAACe1O4xbpU635.png",
+      "to": "贝切姆联",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/08/AB/rBUCgGRUfx-AQBwRAACSpnwb5zk748.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "比利时足球甲级联赛冠军",
+      "count": 2,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/63/BA/rBUESWG5yqaAVnN5AADRLvdFnEQ268.png"
+    },
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    },
+    {
+      "name": "泰国联赛杯冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/DF/rBUESWGKKAaAdUPqAADZwvi7vaU458.png"
+    },
+    {
+      "name": "懂球帝中超MVP",
+      "count": 2,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/1C/14/rBUESWXxVuWAZ8TXAAFijnYhRQQ675.png"
+    },
+    {
+      "name": "比利时超级杯冠军",
+      "count": 2,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/66/AA/rBUESWHEF42AMrwUAAEm3eLlErQ329.png"
+    },
+    {
+      "name": "泰国杯冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/00/38/rBUESWSX-LSAX1aeAADE55IiucM822.png"
+    },
+    {
+      "name": "意大利维亚莱乔杯冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/DF/rBUESWGKKAaAdUPqAADZwvi7vaU458.png"
+    }
+  ],
+  "injuries": [
+    {
+      "team": "安德莱赫特",
+      "type": "膝盖受伤",
+      "from": "2016-03-26",
+      "to": "2016-04-15"
+    },
+    {
+      "team": null,
+      "type": "膝关节囊肿",
+      "from": "2016-01-31",
+      "to": "2016-02-04"
+    },
+    {
+      "team": "安德莱赫特",
+      "type": "膝关节发炎",
+      "from": "2015-11-30",
+      "to": "2015-12-14"
+    }
+  ],
+  "name_zh": "阿奇姆彭",
+  "age": 33,
+  "photo": "https://sd.qunliao.info/fastdfs6/M00/B1/2F/rBUESWRHpCGACKCFAAAZmGnQ6CM296.jpg",
+  "position": "attacker",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 33,
+    "goals": 12,
+    "assists": 6
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50149231.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

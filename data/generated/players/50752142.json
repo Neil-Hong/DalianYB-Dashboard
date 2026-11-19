@@ -1,0 +1,170 @@
+{
+  "id": "50752142",
+  "name_en": "Lyu Zhuoyi",
+  "nationality": "中国",
+  "birth_date": "2001-04-16",
+  "height": 178,
+  "weight": 65,
+  "foot": "右脚",
+  "number": 38,
+  "position_zh": "后卫",
+  "market_value_eur": 600000,
+  "ability": {
+    "overall": 67,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 80
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 72
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 61
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 62
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 56
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 45
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 33,
+      "starts": 30,
+      "goals": 2,
+      "assists": 2,
+      "yellow": 5,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "大连英博",
+      "apps": 31,
+      "starts": 31,
+      "goals": 2,
+      "assists": 4,
+      "yellow": 6,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "大连英博",
+      "apps": 28,
+      "starts": 20,
+      "goals": 4,
+      "assists": 3,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "大连人",
+      "apps": 8,
+      "starts": 4,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2022",
+      "club": "大连人",
+      "apps": 14,
+      "starts": 10,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2024-01-27",
+      "from": "大连人",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/FC/DF/ChMf8F4m0H6AI36xAAB1EOWs2j8999.png",
+      "to": "大连智行",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/9F/9B/rBUESWQacZSAG-4EAA62er4ukBo436.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2022-05-05",
+      "from": "大连人U21",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/FC/DF/ChMf8F4m0H6AI36xAAB1EOWs2j8999.png",
+      "to": "大连人",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/FC/DF/ChMf8F4m0H6AI36xAAB1EOWs2j8999.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-04-01",
+      "from": "大连人预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/FC/DF/ChMf8F4m0H6AI36xAAB1EOWs2j8999.png",
+      "to": "大连人U21",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/FC/DF/ChMf8F4m0H6AI36xAAB1EOWs2j8999.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-09-23",
+      "from": "北京万达",
+      "from_logo": "https://sd.qunliao.info/fastdfs3//M00//B9//F9//ChOxM1xIEDOAbu7VAAAWn39BUY0523.png",
+      "to": "大连人预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/FC/DF/ChMf8F4m0H6AI36xAAB1EOWs2j8999.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "吕焯毅",
+  "age": 25,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/A5/rBXRn2rcTPGAULfxAAAc86SaFQM715.jpg",
+  "position": "defender",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 33,
+    "goals": 2,
+    "assists": 2
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50752142.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

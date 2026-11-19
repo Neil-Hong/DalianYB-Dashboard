@@ -1,0 +1,102 @@
+/* Styles for GalleryView (src/views/GalleryView.tsx). Rules inside @scope apply only within that component; its own root element is :scope. */
+
+  html:has(> body > .theme-stage) { overflow: hidden; height: 100%; }
+  body:has(> .theme-stage) { height: 100%; overflow: hidden; overscroll-behavior: none; }
+
+@scope (.v-gallery) {
+  .gstage {
+    position: fixed; inset: 0; z-index: 0; overflow: hidden; color: #fff; touch-action: none; user-select: none;
+    --cap: 70vh; --fw: 300px;
+    background:
+      radial-gradient(ellipse 55% 60% at 50% 52%, rgb(30 66 150 / .35), transparent 70%),
+      radial-gradient(ellipse 120% 80% at 50% 120%, rgb(232 180 35 / .07), transparent 60%),
+      linear-gradient(180deg, #071434 0%, #050d24 60%, #030817 100%);
+  }
+  .gstage::after { /* fine grain + vignette */
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background: radial-gradient(ellipse at 50% 50%, transparent 55%, rgb(1 4 14 / .7) 100%);
+  }
+  .gl { position: absolute; inset: 0; width: 100%; height: 100%; display: block; cursor: grab; }
+  .gl:active { cursor: grabbing; }
+  .gstage.hovering .gl { cursor: pointer; }
+
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+
+  .caption {
+    position: absolute; left: 50%; top: calc(var(--cap) + clamp(14px, 2.6vh, 28px)); translate: -50% 0; z-index: 2;
+    width: min(92vw, 900px); display: grid; justify-items: center; gap: 8px; text-align: center; pointer-events: none;
+  }
+  .cap-index { display: flex; align-items: center; gap: 10px; font-size: 11px; letter-spacing: .25em; color: #8e9aba; font-variant-numeric: tabular-nums; }
+  .cap-index i { width: 28px; height: 1px; background: rgb(232 180 35 / .7); }
+  .cap-index .cur { position: relative; display: inline-grid; color: var(--gold); }
+  .cap-index .cur b { grid-area: 1 / 1; font-weight: 700; opacity: 0; transform: translateY(6px); transition: opacity .4s, transform .5s cubic-bezier(.2, .8, .2, 1); }
+  .cap-index .cur b.on { opacity: 1; transform: none; }
+
+  .cap-titles { display: grid; }
+  .cap-title {
+    grid-area: 1 / 1; display: inline-flex; justify-content: center; padding: 0 .05em .08em;
+    clip-path: inset(0 -100vw); /* masks the letters vertically only, so long titles are never cut at the sides */
+    font-size: clamp(34px, 5.4vw, 64px); font-weight: 900; letter-spacing: .02em; line-height: 1.05; text-transform: uppercase;
+    color: #fff; text-decoration: none; pointer-events: none;
+  }
+  .cap-title.on { pointer-events: auto; }
+  .cap-title span { display: inline-block; transform: translateY(105%); transition: transform .7s cubic-bezier(.2, .85, .15, 1); transition-delay: calc(var(--j) * 28ms); }
+  .cap-title.on span { transform: none; transition-delay: calc(var(--j) * 38ms + 120ms); }
+  .cap-title.out span { transform: translateY(-105%); }
+  .cap-title:hover span, .cap-title:focus-visible span { color: var(--gold); }
+  .cap-title:focus-visible { outline: 1px solid var(--gold); outline-offset: 4px; }
+
+  .cap-meta { display: grid; font-size: 12px; color: #8e9aba; letter-spacing: .08em; }
+  .cap-meta span { grid-area: 1 / 1; opacity: 0; transition: opacity .5s; }
+  .cap-meta span.on { opacity: 1; transition-delay: .3s; }
+
+  .rail { position: absolute; left: clamp(16px, 3vw, 40px); top: 50%; translate: 0 -50%; z-index: 2; display: grid; gap: 14px; }
+  .rail button {
+    position: relative; width: 30px; height: 30px; border-radius: 50%; border: 1px solid rgb(255 255 255 / .18); background: transparent;
+    color: #8e9aba; font: inherit; font-size: 10px; font-weight: 700; cursor: pointer; display: grid; place-items: center;
+    transition: color .3s, border-color .3s, background .3s, transform .3s;
+  }
+  .rail button:hover { border-color: rgb(232 180 35 / .7); color: #fff; }
+  .rail button.on { background: var(--gold); border-color: var(--gold); color: var(--navy-ink); transform: scale(1.08); }
+  .rail button:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
+
+  .side-text {
+    position: absolute; right: clamp(14px, 2.6vw, 36px); top: 50%; z-index: 2; margin: 0;
+    writing-mode: vertical-rl; translate: 0 -50%; font-size: 11px; font-weight: 700; letter-spacing: .32em; color: #6f7ea8; white-space: nowrap;
+  }
+  .side-text i { font-style: normal; color: var(--gold); margin: .6em 0; }
+  .side-text span { color: #c9d3ec; }
+
+  .hint {
+    position: absolute; left: clamp(16px, 3vw, 40px); bottom: clamp(14px, 3vh, 28px); z-index: 2; margin: 0;
+    display: flex; align-items: center; gap: 10px; font-size: 11px; letter-spacing: .25em; text-transform: uppercase; color: #6f7ea8;
+    transition: opacity .6s;
+  }
+  .gstage.moved .hint { opacity: 0; }
+  .mouse { width: 16px; height: 24px; border: 1.5px solid currentColor; border-radius: 8px; position: relative; }
+  .mouse span { position: absolute; left: 50%; top: 5px; width: 2px; height: 5px; margin-left: -1px; border-radius: 1px; background: var(--gold); animation: wheel 1.8s ease-in-out infinite; }
+  @keyframes wheel { 0% { opacity: 0; transform: translateY(-2px); } 30% { opacity: 1; } 100% { opacity: 0; transform: translateY(6px); } }
+
+  .fallback { display: none; }
+  .gstage.no-webgl { touch-action: pan-y; overflow-y: auto; scroll-snap-type: y mandatory; padding-top: 120px; }
+  .gstage.no-webgl :is(.gl, .caption, .hint, .rail, .side-text) { display: none; }
+  .gstage.no-webgl .fallback { display: grid; gap: 10vh; list-style: none; margin: 0; padding: 0 16px 20vh; justify-items: center; }
+  .fallback li { scroll-snap-align: center; }
+  .fallback a { display: grid; gap: 14px; justify-items: center; text-decoration: none; color: #fff; }
+  .fallback img { width: min(420px, 74vw); aspect-ratio: 4 / 5; object-fit: cover; box-shadow: 0 30px 60px rgb(0 0 0 / .45); transition: transform .4s; }
+  .fallback a:hover img { transform: scale(1.02); }
+  .fallback span { font-size: 36px; font-weight: 900; text-transform: uppercase; }
+
+  .gstage.leaving { animation: stage-out .55s cubic-bezier(.65, 0, .35, 1) forwards; }
+  @keyframes stage-out { to { opacity: 0; filter: blur(6px); transform: scale(1.04); } }
+
+  @media (max-width: 700px) {
+    .rail { left: auto; right: 14px; top: auto; bottom: 18px; translate: none; display: flex; gap: 10px; }
+    .side-text { display: none; }
+    .hint { left: 16px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .cap-title span, .cap-index .cur b { transition-duration: .01s; transition-delay: 0s !important; }
+    .mouse span { animation: none; }
+  }
+}

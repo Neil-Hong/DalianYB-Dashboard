@@ -1,0 +1,8 @@
+/* Styles for StandingsTable (src/components/StandingsTable.tsx). Rules inside @scope apply only within that component; its own root element is :scope. */
+
+@scope (.standings) {
+  .team-cell { display: inline-flex; align-items: center; gap: 8px; }
+  .pts { font-weight: 800; }
+  .rank { width: 32px; color: var(--muted); }
+  tr.gap td { border-top: 2px dashed var(--line); }
+}

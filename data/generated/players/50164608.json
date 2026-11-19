@@ -1,0 +1,285 @@
+{
+  "id": "50164608",
+  "name_en": "Luo Jing",
+  "nationality": "中国",
+  "birth_date": "1993-11-04",
+  "height": 180,
+  "weight": 72,
+  "foot": "右脚",
+  "number": 7,
+  "position_zh": "中场",
+  "market_value_eur": 75000,
+  "ability": {
+    "overall": 57,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 67
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 61
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 58
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 56
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 54
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 56
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 2,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 31,
+      "starts": 19,
+      "goals": 4,
+      "assists": 3,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "云南玉昆",
+      "apps": 26,
+      "starts": 13,
+      "goals": 3,
+      "assists": 4,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "云南玉昆",
+      "apps": 30,
+      "starts": 16,
+      "goals": 5,
+      "assists": 6,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "武汉三镇",
+      "apps": 12,
+      "starts": 3,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2022",
+      "club": "沧州雄狮",
+      "apps": 11,
+      "starts": 7,
+      "goals": 3,
+      "assists": 1,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2021",
+      "club": "沧州雄狮",
+      "apps": 2,
+      "starts": 2,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2020",
+      "club": "江苏苏宁",
+      "apps": 23,
+      "starts": 14,
+      "goals": 1,
+      "assists": 2,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2019",
+      "club": "江苏苏宁",
+      "apps": 24,
+      "starts": 17,
+      "goals": 1,
+      "assists": 1,
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "season": "2016",
+      "club": "杭州绿城",
+      "apps": 17,
+      "starts": 10,
+      "goals": 1,
+      "assists": 2,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2015",
+      "club": "杭州绿城",
+      "apps": 18,
+      "starts": 6,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2014",
+      "club": "杭州绿城",
+      "apps": 21,
+      "starts": 6,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2013",
+      "club": "杭州大金绿城",
+      "apps": 2,
+      "starts": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2012/2013",
+      "club": "卡萨皮亚",
+      "apps": 9,
+      "starts": 0,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2026-01-22",
+      "from": "云南玉昆",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGoYKAAylWAABfoAgM1WE169.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2024-02-21",
+      "from": "武汉三镇",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTu2AJbV0AABgSzGBSuk267.png",
+      "to": "云南玉昆",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/4B/D4/rBUESWQ4vTaAOYbDAABOj_4GnQw147.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-04-06",
+      "from": "沧州雄狮",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/65/3A/rB8BO2AA-YyAIG10AACQmG-34n0642.png",
+      "to": "武汉三镇",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTu2AJbV0AABgSzGBSuk267.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-04-02",
+      "from": "江苏",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/69/AE/rB8CCmAXxDeAcdmSAABS-KLg4TQ291.png",
+      "to": "沧州雄狮",
+      "to_logo": "https://sd.qunliao.info/fastdfs5/M00/65/3A/rB8BO2AA-YyAIG10AACQmG-34n0642.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2019-02-15",
+      "from": "浙江预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/9E/FC/rBUESWJ-B_6AXUMjAABt3LDOeiI229.png",
+      "to": "江苏苏宁",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/12/ChNLklxT7wGALHo3AAA2cvA7bUQ189.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2018-01-01",
+      "from": "杭州绿城",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/12/ChNLklxT7wuAMdS5AABbk3aLvGI494.png",
+      "to": "浙江预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/9E/FC/rBUESWJ-B_6AXUMjAABt3LDOeiI229.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2013-07-01",
+      "from": "浙江预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/9E/FC/rBUESWJ-B_6AXUMjAABt3LDOeiI229.png",
+      "to": "杭州大金绿城",
+      "to_logo": "https://sd.qunliao.info/fastdfs5/M00/6F/47/rB8BO2A0dCOAXwrMAABHGlZw1jw787.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 2,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    },
+    {
+      "name": "中国足球甲级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUESWGKLryAX9qcAADuuRCiJII964.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "罗竞",
+  "age": 33,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/51/rBXRDGr2xuqAC9-EAAAZFhGqCm4122.jpg",
+  "position": "midfielder",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 31,
+    "goals": 4,
+    "assists": 3
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50164608.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

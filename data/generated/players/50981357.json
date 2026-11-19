@@ -1,0 +1,118 @@
+{
+  "id": "50981357",
+  "name_en": "Zhang Chengrui",
+  "nationality": "中国",
+  "birth_date": "2008-03-15",
+  "height": 175,
+  "weight": 63,
+  "number": 37,
+  "position_zh": "中场",
+  "ability": {
+    "overall": 51,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 67
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 50
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 42
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 57
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 50
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 43
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 4,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 1,
+      "starts": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2026",
+      "club": "大连英博B队",
+      "apps": 9,
+      "starts": 6,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2026-02-03",
+      "from": "大连足协",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/CA/FD/ChMf8F0qyL6APsoMAAXQgU-Bbn4983.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2024-02-05",
+      "from": "大连人青年队",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/FC/DF/ChMf8F4m0H6AI36xAAB1EOWs2j8999.png",
+      "to": "大连足协",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/CA/FD/ChMf8F0qyL6APsoMAAXQgU-Bbn4983.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "张城瑞",
+  "age": 18,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/52/rBXRDGr2x9CAbzG7AAAZlTZud4A306.jpg",
+  "position": "midfielder",
+  "u21": true,
+  "captain": false,
+  "season_stats": {
+    "apps": 1,
+    "goals": 0,
+    "assists": 0
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50981357.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

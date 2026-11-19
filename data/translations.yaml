@@ -1,0 +1,236 @@
+# Chinese -> English for data that dongqiudi only provides in Chinese.
+# Hand-maintained. Missing entries fall back to the Chinese text and are listed by
+# `npm run i18n:check`. Player names come from dongqiudi's English names (override
+# them in data/players.yaml).
+#
+# Club names: youth/reserve suffixes (U19, 预备队, B队 ...) are handled automatically,
+# so "切沃U19" only needs "切沃" here.
+
+teams:
+  大连英博: Dalian Yingbo
+  上海嘉定汇龙: Shanghai Jiading Huilong
+  上海海港: Shanghai Port
+  上海申花: Shanghai Shenhua
+  云南玉昆: Yunnan Yukun
+  佛山南狮: Foshan Nanshi
+  北京国安: Beijing Guoan
+  南京城市: Nanjing City
+  天津津门虎: Tianjin Jinmen Tiger
+  山东泰山: Shandong Taishan
+  广州: Guangzhou FC
+  广西平果哈嘹: Guangxi Pingguo Haliao
+  广西恒宸: Guangxi Hengchen
+  延边龙鼎: Yanbian Longding
+  待定: TBD
+  成都蓉城: Chengdu Rongcheng
+  无锡吴钩: Wuxi Wugou
+  杭州临平吴越: Hangzhou Linping Wuyue
+  梅州客家: Meizhou Hakka
+  武汉三镇: Wuhan Three Towns
+  江西庐山: Jiangxi Lushan
+  河南: Henan FC
+  浙江: Zhejiang FC
+  深圳新鹏城: Shenzhen Peng City
+  深圳青年人: Shenzhen Juniors
+  石家庄功夫: Shijiazhuang Gongfu
+  苏州东吴: Suzhou Dongwu
+  莫斯科斯巴达: Spartak Moscow
+  辽宁铁人: Liaoning Tieren
+  重庆铜梁龙: Chongqing Tonglianglong
+  长春亚泰: Changchun Yatai
+  阿治曼: Ajman
+  陶里亚蒂阿克隆: Akron Tolyatti
+  青岛海牛: Qingdao Hainiu
+  青岛红狮: Qingdao Red Lions
+  青岛西海岸: Qingdao West Coast
+  首尔: FC Seoul
+  黑龙江冰城: Heilongjiang Ice City
+
+competitions:
+  中超: CSL
+  中甲: China League One
+  足协杯: CFA Cup
+  中国足协超级杯: CFA Super Cup
+  友谊赛: Friendly
+  足球: Football
+
+nationalities:
+  中国: China
+  加纳: Ghana
+  北马其顿: North Macedonia
+  阿尔巴尼亚: Albania
+  澳大利亚: Australia
+  克罗地亚: Croatia
+  瑞士: Switzerland
+  安哥拉: Angola
+  罗马尼亚: Romania
+  马里: Mali
+
+roles:
+  主教练: Head coach
+  助理教练: Assistant coach
+  战术教练: Tactical coach
+  守门员教练: Goalkeeper coach
+  体能教练: Fitness coach
+  总经理: General manager
+  老板: Owner
+
+people:
+  李国旭: Li Guoxu
+  马克-鲁丹: Mark Rudan
+  李钢: Li Gang
+  刘玉建: Liu Yujian
+  何泽豪: He Zehao
+  陈韵峰: Chen Yunfeng
+  臧永亮: Zang Yongliang
+  郑涛: Zheng Tao
+  赵海滨: Zhao Haibin
+  王魁: Wang Kui
+  陈东: Chen Dong
+
+foot:
+  右脚: Right
+  左脚: Left
+  双脚: Both
+
+clubs:
+  FK奥赫里德: FK Ohrid
+  上海上港: Shanghai SIPG
+  上海绿地申花: Shanghai Greenland Shenhua
+  亚特兰大: Atalanta
+  伊莫莱塞: Imolese
+  伏伊伏丁那: Vojvodina
+  佛利: Forlì
+  克卢日: CFR Cluj
+  内蒙古中优: Inner Mongolia Zhongyou
+  切沃: Chievo
+  勒卡: Leça
+  北京万达: Beijing Wanda
+  北京中赫国安: Beijing Sinobo Guoan
+  北京北控燕京: Beijing BG Yanjing
+  北京控股: Beijing Enterprises
+  南京沙叶河海: Nanjing Shaye Hehai
+  南通支云: Nantong Zhiyun
+  博阿维斯塔: Boavista
+  卡巴拉: Qabala
+  卡萨皮亚: Casa Pia
+  卢梅扎内: Lumezzane
+  吉达国民: Al-Ahli Jeddah
+  四川九牛: Sichuan Jiuniu
+  国际米兰: Inter Milan
+  圣格奥尔基: Sepsi OSK
+  塔伊: Al-Taee
+  大连人: Dalian Pro
+  大连实德: Dalian Shide
+  大连智行: Dalian Zhixing
+  大连读行: Dalian Duxing
+  大连足协: Dalian FA
+  大连阿尔滨: Dalian Aerbin
+  大连阿尔滨一方: Dalian Yifang
+  天津亿利: Tianjin Yili
+  天津天海: Tianjin Tianhai
+  天津泰达: Tianjin Teda
+  奥利韦拉人体育联盟: UD Oliveirense
+  宁夏山屿海: Ningxia Shanyuhai
+  安德莱赫特: Anderlecht
+  山东鲁能泰山: Shandong Luneng Taishan
+  巴勒莫: Palermo
+  布加勒斯特星: Steaua Bucharest
+  布拉格斯巴达: Sparta Prague
+  布拉格斯拉维亚: Slavia Prague
+  希贝尼克: HNK Šibenik
+  广州恒大淘宝: Guangzhou Evergrande Taobao
+  成都顶耀蜀锦: Chengdu Dingyao Shujin
+  成都顶耀锦城: Chengdu Dingyao Jincheng
+  托里什人联合: Torreense
+  昆山: Kunshan FC
+  普拉坦斯: Platanias
+  未知球队: Unknown club
+  杭州九好绿城: Hangzhou Greentown
+  杭州大金绿城: Hangzhou Greentown
+  杭州绿城: Hangzhou Greentown
+  杭州诺贝尔绿城: Hangzhou Nabel Greentown
+  武里南联: Buriram United
+  江苏: Jiangsu FC
+  江苏苏宁: Jiangsu Suning
+  沃日多瓦茨: Voždovac
+  沧州雄狮: Cangzhou Mighty Lions
+  河南嵩山龙门: Henan Songshan Longmen
+  河南建业: Henan Jianye
+  海南之星: Hainan Star
+  海口名城: Haikou Mingcheng
+  深圳: Shenzhen FC
+  湖北: Hubei
+  湖北青年星: Hubei Istar
+  热那亚: Genoa
+  特拉帕尼: Trapani
+  瓦尔津: Varzim
+  瓦斯卢伊: Vaslui
+  穆艾德尔: Muaither
+  维尔图斯恩泰拉: Virtus Entella
+  维琴察: Vicenza
+  自由球员: Free agent
+  苏黎世: FC Zürich
+  莱雄伊什: Leixões
+  葡萄牙体育: Sporting CP
+  费萨尔国王: King Faisal Babes
+  辽宁: Liaoning
+  辽宁沈阳宏运: Liaoning Shenyang Hongyun
+  达马克: Damac
+  里米尼: Rimini
+  重庆两江竞技: Chongqing Liangjiang Athletic
+  重庆力帆: Chongqing Lifan
+  重庆当代: Chongqing Dangdai
+  重庆当代力帆: Chongqing Dangdai Lifan
+  重庆斯威: Chongqing SWM
+  长野帕塞罗: AC Nagano Parceiro
+  阿尔巴尤利亚: Unirea Alba Iulia
+  阿维斯体育: Desportivo Aves
+  阿罗卡: Arouca
+  阿马多拉之星: Estrela da Amadora
+  青岛: Qingdao
+  马德拉航海: Nacional
+
+honours:
+  中国足协杯冠军: CFA Cup winner
+  中国足协超级杯冠军: CFA Super Cup winner
+  中国足球乙级联赛冠军: China League Two champion
+  中国足球甲级联赛冠军: China League One champion
+  中国足球超级联赛冠军: Chinese Super League champion
+  亚足联冠军精英联赛冠军: AFC Champions League Elite winner
+  年度最佳球员: Player of the Year
+  意大利U17超级杯冠军: Italian U17 Super Cup winner
+  意大利维亚莱乔杯冠军: Viareggio Cup winner
+  意大利足球U19联赛冠军: Italian U19 league champion
+  意大利足球乙级联赛冠军: Serie B champion
+  意大利青年杯冠军: Coppa Italia Primavera winner
+  懂球帝中超MVP: Dongqiudi CSL MVP
+  捷克杯冠军: Czech Cup winner
+  捷克足球甲级联赛冠军: Czech First League champion
+  比利时超级杯冠军: Belgian Super Cup winner
+  比利时足球甲级联赛冠军: Belgian Pro League champion
+  泰国杯冠军: Thai FA Cup winner
+  泰国联赛杯冠军: Thai League Cup winner
+  罗马尼亚杯冠军: Romanian Cup winner
+  罗马尼亚联赛杯冠军: Romanian League Cup winner
+  罗马尼亚超级杯冠军: Romanian Super Cup winner
+  罗马尼亚足球甲级联赛冠军: Liga I champion
+  阿塞拜疆杯冠军: Azerbaijan Cup winner
+
+injuries:
+  大腿肌肉撕裂: Thigh muscle tear
+  大腿问题: Thigh problem
+  未知伤病: Unknown injury
+  生病: Illness
+  肌肉问题: Muscle problem
+  股骨骨折: Femur fracture
+  脚踝扭伤: Sprained ankle
+  脚踝损伤: Ankle injury
+  腘绳肌损伤: Hamstring injury
+  腹股沟疼痛: Groin pain
+  腿部受伤: Leg injury
+  膝关节发炎: Knee inflammation
+  膝关节囊肿: Knee cyst
+  膝盖受伤: Knee injury
+  膝盖瘀伤: Knee bruise
+  踝关节韧带撕裂: Torn ankle ligament

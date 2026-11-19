@@ -1,0 +1,300 @@
+{
+  "id": "50254045",
+  "name_en": "Feng Boxuan",
+  "nationality": "中国",
+  "birth_date": "1997-03-18",
+  "height": 181,
+  "weight": 75,
+  "foot": "右脚",
+  "number": 12,
+  "position_zh": "后卫",
+  "market_value_eur": 100000,
+  "ability": {
+    "overall": 55,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 63
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 56
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 50
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 60
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 52
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 51
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 16,
+      "starts": 8,
+      "goals": 0,
+      "assists": 1,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2026",
+      "club": "北京国安",
+      "apps": 3,
+      "starts": 0,
+      "goals": 0,
+      "assists": 1,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "北京国安",
+      "apps": 14,
+      "starts": 7,
+      "goals": 0,
+      "assists": 2,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "北京国安",
+      "apps": 17,
+      "starts": 4,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "北京国安",
+      "apps": 17,
+      "starts": 14,
+      "goals": 1,
+      "assists": 1,
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "season": "2022",
+      "club": "河南嵩山龙门",
+      "apps": 28,
+      "starts": 20,
+      "goals": 1,
+      "assists": 1,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2021",
+      "club": "河南嵩山龙门",
+      "apps": 21,
+      "starts": 16,
+      "goals": 1,
+      "assists": 1,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2020",
+      "club": "河南建业",
+      "apps": 18,
+      "starts": 14,
+      "goals": 2,
+      "assists": 1,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2019",
+      "club": "广州恒大淘宝",
+      "apps": 4,
+      "starts": 0,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2018",
+      "club": "广州恒大淘宝",
+      "apps": 9,
+      "starts": 3,
+      "goals": 0,
+      "assists": 1,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2017",
+      "club": "广州恒大淘宝",
+      "apps": 1,
+      "starts": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2016/2017",
+      "club": "托里什人联合",
+      "apps": 16,
+      "starts": 15,
+      "goals": 2,
+      "assists": 0,
+      "yellow": 2,
+      "red": 1
+    },
+    {
+      "season": "2015/2016",
+      "club": "托里什人联合",
+      "apps": 11,
+      "starts": 7,
+      "goals": 2,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2026-07-03",
+      "from": "北京国安",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BB/rBUESWHUILmAZO2QAABrjKx8wJM240.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-03-29",
+      "from": "河南嵩山龙门",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/07/8B/rBUCgGB9MdGAIxYsAABdUl4SqsY947.png",
+      "to": "北京国安",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BB/rBUESWHUILmAZO2QAABrjKx8wJM240.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2022-04-26",
+      "from": "广州",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/C0/A6/ChOxM1xSnI-AHbEpAABzij0bifo535.png",
+      "to": "河南嵩山龙门",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/07/8B/rBUCgGB9MdGAIxYsAABdUl4SqsY947.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-12-31",
+      "from": "河南嵩山龙门",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/07/8B/rBUCgGB9MdGAIxYsAABdUl4SqsY947.png",
+      "to": "广州",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/C0/A6/ChOxM1xSnI-AHbEpAABzij0bifo535.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-04-08",
+      "from": "广州",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/C0/A6/ChOxM1xSnI-AHbEpAABzij0bifo535.png",
+      "to": "河南嵩山龙门",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/07/8B/rBUCgGB9MdGAIxYsAABdUl4SqsY947.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-12-31",
+      "from": "河南建业",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/15/ChMf8FxT7xiAN2zjAABi6dYrAZA047.png",
+      "to": "广州恒大淘宝",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/13/ChNLklxT7xGAShyoAACDzUwguJI804.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-07-20",
+      "from": "广州恒大淘宝",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/13/ChNLklxT7xGAShyoAACDzUwguJI804.png",
+      "to": "河南建业",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/15/ChMf8FxT7xiAN2zjAABi6dYrAZA047.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2017-07-14",
+      "from": "托里什人联合",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/1E/F7/rB8BO17iRLmAJOBIAABwfFDuXRY928.png",
+      "to": "广州恒大淘宝",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/13/ChNLklxT7xGAShyoAACDzUwguJI804.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 2,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    },
+    {
+      "name": "中国足协杯冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUCgGGKLKKAWXM-AAD6CgBxR0k258.png"
+    },
+    {
+      "name": "中国足协超级杯冠军",
+      "count": 2,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUCgGGKLKuAPr5oAACB_ZR4LFM336.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "冯博轩",
+  "age": 29,
+  "photo": "https://sd.qunliao.info/fastdfs7/M00/4B/74/rBUBsmXlpoiAdWyHAAAbw6Rhpig563.jpg",
+  "position": "defender",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 16,
+    "goals": 0,
+    "assists": 1
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50254045.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

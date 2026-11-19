@@ -1,0 +1,503 @@
+{
+  "id": "50179713",
+  "name_en": "Cephas Malele",
+  "nationality": "瑞士/安哥拉",
+  "birth_date": "1994-01-08",
+  "height": 185,
+  "weight": 80,
+  "foot": "右脚",
+  "number": 11,
+  "position_zh": "前锋",
+  "market_value_eur": 700000,
+  "ability": {
+    "overall": 71,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 82
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 80
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 33
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 67
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 48
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 69
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 4,
+      "skill_moves": 3
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 19,
+      "starts": 19,
+      "goals": 8,
+      "assists": 4,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "大连英博",
+      "apps": 28,
+      "starts": 27,
+      "goals": 8,
+      "assists": 2,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "上海申花",
+      "apps": 35,
+      "starts": 32,
+      "goals": 21,
+      "assists": 3,
+      "yellow": 3,
+      "red": 1
+    },
+    {
+      "season": "2023",
+      "club": "上海申花",
+      "apps": 32,
+      "starts": 31,
+      "goals": 15,
+      "assists": 5,
+      "yellow": 6,
+      "red": 0
+    },
+    {
+      "season": "2022/2023",
+      "club": "克卢日",
+      "apps": 27,
+      "starts": 15,
+      "goals": 5,
+      "assists": 2,
+      "yellow": 5,
+      "red": 0
+    },
+    {
+      "season": "2021/2022",
+      "club": "塔伊",
+      "apps": 27,
+      "starts": 18,
+      "goals": 4,
+      "assists": 5,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2020/2021",
+      "club": "阿加斯",
+      "apps": 30,
+      "starts": 27,
+      "goals": 18,
+      "assists": 4,
+      "yellow": 8,
+      "red": 0
+    },
+    {
+      "season": "2019/2020",
+      "club": "奥利韦拉人体育联盟",
+      "apps": 14,
+      "starts": 5,
+      "goals": 3,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2018/2019",
+      "club": "阿罗卡",
+      "apps": 30,
+      "starts": 20,
+      "goals": 10,
+      "assists": 0,
+      "yellow": 6,
+      "red": 0
+    },
+    {
+      "season": "2017/2018",
+      "club": "瓦尔津",
+      "apps": 29,
+      "starts": 21,
+      "goals": 2,
+      "assists": 0,
+      "yellow": 6,
+      "red": 0
+    },
+    {
+      "season": "2016/2017",
+      "club": "瓦尔津",
+      "apps": 21,
+      "starts": 20,
+      "goals": 5,
+      "assists": 0,
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "season": "2016/2017",
+      "club": "莱雄伊什",
+      "apps": 13,
+      "starts": 8,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 2
+    },
+    {
+      "season": "2015/2016",
+      "club": "葡萄牙竞技",
+      "apps": 42,
+      "starts": 26,
+      "goals": 9,
+      "assists": 0,
+      "yellow": 5,
+      "red": 1
+    },
+    {
+      "season": "2014/2015",
+      "club": "特拉帕尼",
+      "apps": 15,
+      "starts": 4,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2014/2015",
+      "club": "维尔图斯恩泰拉",
+      "apps": 15,
+      "starts": 3,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2013/2014",
+      "club": "巴勒莫",
+      "apps": 3,
+      "starts": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2012/2013",
+      "club": "巴勒莫",
+      "apps": 3,
+      "starts": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2025-01-13",
+      "from": "上海申花",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BE/rBUCgGHUJAKABZ2rAABdkkE5vtY777.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-03-30",
+      "from": "塔伊",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/D5/rBUCgGSnfweAD7feAAAfQ7liXHY872.png",
+      "to": "上海申花",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BE/rBUCgGHUJAKABZ2rAABdkkE5vtY777.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-03-03",
+      "from": "克卢日",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2P-AXzPeAAAhulj9Upk639.png",
+      "to": "塔伊",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/D5/rBUCgGSnfweAD7feAAAfQ7liXHY872.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2022-08-04",
+      "from": "塔伊",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/D5/rBUCgGSnfweAD7feAAAfQ7liXHY872.png",
+      "to": "克卢日",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2P-AXzPeAAAhulj9Upk639.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-08-13",
+      "from": "阿加斯",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/C9/C5/ChMf8FzU8mOAG3NOAAB5QV48s8s844.png",
+      "to": "塔伊",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/D5/rBUCgGSnfweAD7feAAAfQ7liXHY872.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-09-08",
+      "from": "奥利韦拉人体育联盟",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PmAG987AABcx33rh6c921.png",
+      "to": "阿加斯",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/C9/C5/ChMf8FzU8mOAG3NOAAB5QV48s8s844.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2019-09-22",
+      "from": "阿罗卡",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/5A/4A/rBUCgGGdofyACw29AACdK1i-Zyw173.png",
+      "to": "奥利韦拉人体育联盟",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PmAG987AABcx33rh6c921.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2018-07-01",
+      "from": "瓦尔津",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PWAMCNdAAAkWrBV7xE214.png",
+      "to": "阿罗卡",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/5A/4A/rBUCgGGdofyACw29AACdK1i-Zyw173.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2017-08-31",
+      "from": "巴勒莫",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "to": "瓦尔津",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PWAMCNdAAAkWrBV7xE214.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2017-06-30",
+      "from": "瓦尔津",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PWAMCNdAAAkWrBV7xE214.png",
+      "to": "巴勒莫",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2017-01-05",
+      "from": "巴勒莫",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "to": "瓦尔津",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PWAMCNdAAAkWrBV7xE214.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2017-01-04",
+      "from": "莱雄伊什",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PeAc7raAAAe3NgCsUw437.png",
+      "to": "巴勒莫",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2016-08-17",
+      "from": "巴勒莫",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "to": "莱雄伊什",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PeAc7raAAAe3NgCsUw437.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2016-06-30",
+      "from": "葡萄牙竞技",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/81/ChOxM1xC2WqAW5oRAAATU26GERY390.png",
+      "to": "巴勒莫",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2015-07-30",
+      "from": "巴勒莫",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "to": "葡萄牙竞技",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/81/ChOxM1xC2WqAW5oRAAATU26GERY390.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2015-06-30",
+      "from": "特拉帕尼",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2seAZbO4AAAQWjk-tKc053.png",
+      "to": "巴勒莫",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2015-01-08",
+      "from": "巴勒莫",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "to": "特拉帕尼",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8C/ChOxM1xC2seAZbO4AAAQWjk-tKc053.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2015-01-07",
+      "from": "维尔图斯恩泰拉",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/C6/F3/rBXRn2rZeXWAFpXzAABSBoCtdUk357.png",
+      "to": "巴勒莫",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2014-07-26",
+      "from": "巴勒莫",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "to": "维尔图斯恩泰拉",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/C6/F3/rBXRn2rZeXWAFpXzAABSBoCtdUk357.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2013-07-01",
+      "from": "巴勒莫U19",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "to": "巴勒莫",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2011-07-19",
+      "from": "苏黎世B队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/E4/F2/rBUESWLeWM2AY-NbAAAq0YiFqiU880.png",
+      "to": "巴勒莫U19",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/D4/94/ChMf8F1VMj-AXQpsAABBD10hdnc046.png",
+      "type": "转会",
+      "fee": "90万欧",
+      "fee_eur": 900000
+    },
+    {
+      "date": "2010-07-01",
+      "from": "苏黎世U18",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/E4/F2/rBUESWLeWM2AY-NbAAAq0YiFqiU880.png",
+      "to": "苏黎世B队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/E4/F2/rBUESWLeWM2AY-NbAAAq0YiFqiU880.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    },
+    {
+      "name": "中国足协杯冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUCgGGKLKKAWXM-AAD6CgBxR0k258.png"
+    },
+    {
+      "name": "中国足协超级杯冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUCgGGKLKuAPr5oAACB_ZR4LFM336.png"
+    },
+    {
+      "name": "意大利足球乙级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLCiAN1XBAACKkns3A9c194.png"
+    },
+    {
+      "name": "懂球帝中超MVP",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/1C/14/rBUESWXxVuWAZ8TXAAFijnYhRQQ675.png"
+    }
+  ],
+  "injuries": [
+    {
+      "team": "大连英博",
+      "type": "大腿肌肉撕裂",
+      "from": "2026-08-17",
+      "to": "2026-11-07"
+    },
+    {
+      "team": "上海申花",
+      "type": "脚踝损伤",
+      "from": "2024-08-12",
+      "to": "2024-09-20"
+    }
+  ],
+  "name_zh": "马莱莱",
+  "age": 32,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/43/6D/rBXRDGnUZiyAIeo6AAAYzV0KNRw619.jpg",
+  "position": "attacker",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 19,
+    "goals": 8,
+    "assists": 4
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50179713.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

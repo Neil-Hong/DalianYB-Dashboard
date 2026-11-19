@@ -1,0 +1,205 @@
+{
+  "id": "50795377",
+  "name_en": "Sun Kangbo",
+  "nationality": "中国",
+  "birth_date": "2006-08-19",
+  "height": 180,
+  "weight": 72,
+  "foot": "右脚",
+  "number": 28,
+  "position_zh": "后卫",
+  "market_value_eur": 150000,
+  "ability": {
+    "overall": 54,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 69
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 56
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 50
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 51
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 44
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 40
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 4,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博B队",
+      "apps": 8,
+      "starts": 8,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 11,
+      "starts": 2,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "湖北U20",
+      "apps": 4,
+      "starts": 4,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "辽宁铁人",
+      "apps": 15,
+      "starts": 15,
+      "goals": 0,
+      "assists": 1,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "湖北青年星",
+      "apps": 17,
+      "starts": 16,
+      "goals": 0,
+      "assists": 2,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "湖北青年星",
+      "apps": 12,
+      "starts": 12,
+      "goals": 0,
+      "assists": 2,
+      "yellow": 1,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2026-01-28",
+      "from": "湖北青年星",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/7E/6A/rBXRDGmMLyOAfZB4AAA68q244xg219.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "转会",
+      "fee": "50万欧",
+      "fee_eur": 500000
+    },
+    {
+      "date": "2025-12-31",
+      "from": "辽宁铁人",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/75/07/rBXRn2nnObmAEDgWAACP2kSeLY0556.png",
+      "to": "湖北青年星",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/7E/6A/rBXRDGmMLyOAfZB4AAA68q244xg219.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2025-06-26",
+      "from": "湖北青年星",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/7E/6A/rBXRDGmMLyOAfZB4AAA68q244xg219.png",
+      "to": "辽宁铁人",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/75/07/rBXRn2nnObmAEDgWAACP2kSeLY0556.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2025-06-23",
+      "from": "沃日多瓦茨U19",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/82/ChOxM1xC2X2ABgHGAAAgn0YlWvg722.png",
+      "to": "湖北青年星",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/7E/6A/rBXRDGmMLyOAfZB4AAA68q244xg219.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2024-08-27",
+      "from": "湖北青年星",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/7E/6A/rBXRDGmMLyOAfZB4AAA68q244xg219.png",
+      "to": "沃日多瓦茨U19",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/82/ChOxM1xC2X2ABgHGAAAgn0YlWvg722.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-04-01",
+      "from": "湖北青年星青年队",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/64/3D/rB8BO1_7smSAYYRRAAKQfPYebJ0265.png",
+      "to": "湖北青年星",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/7E/6A/rBXRDGmMLyOAfZB4AAA68q244xg219.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    },
+    {
+      "name": "中国足球甲级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUESWGKLryAX9qcAADuuRCiJII964.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "孙康博",
+  "age": 20,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3D/rBXRn2r2yDOAQcvwAAAdAAfTP8o671.jpg",
+  "position": "defender",
+  "u21": true,
+  "captain": false,
+  "season_stats": {
+    "apps": 11,
+    "goals": 0,
+    "assists": 0
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50795377.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

@@ -1,0 +1,1143 @@
+[
+  {
+    "id": "54354924",
+    "kickoff": "2026-01-10T08:00:00Z",
+    "time_confirmed": true,
+    "competition": "友谊赛",
+    "competition_id": "643",
+    "round": null,
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000332",
+      "name": "天津津门虎",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/06/08/rBUCgGB2x6eAewcfAACQzgjTP-w378.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54358468",
+    "kickoff": "2026-01-14T08:00:00Z",
+    "time_confirmed": true,
+    "competition": "友谊赛",
+    "competition_id": "643",
+    "round": null,
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000337",
+      "name": "长春亚泰",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTjCAXnwFAABoJI5zAdM049.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54361899",
+    "kickoff": "2026-01-17T07:00:00Z",
+    "time_confirmed": true,
+    "competition": "友谊赛",
+    "competition_id": "643",
+    "round": null,
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000335",
+      "name": "山东泰山",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54364909",
+    "kickoff": "2026-01-21T07:30:00Z",
+    "time_confirmed": true,
+    "competition": "友谊赛",
+    "competition_id": "643",
+    "round": null,
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50122484",
+      "name": "重庆铜梁龙",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/76/30/rBUBsmZPDVWAAPedAAB3_VdHiZg577.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54370148",
+    "kickoff": "2026-01-25T07:30:00Z",
+    "time_confirmed": true,
+    "competition": "友谊赛",
+    "competition_id": "643",
+    "round": null,
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50001177",
+      "name": "首尔",
+      "logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7A/ChOxM1xC2MOAVhvLAABoCTooOYk867.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 6
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54378877",
+    "kickoff": "2026-02-03T13:00:00Z",
+    "time_confirmed": true,
+    "competition": "友谊赛",
+    "competition_id": "643",
+    "round": null,
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50006860",
+      "name": "阿治曼",
+      "logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8A/ChOxM1xC2p2Ac1wpAAA7QsWzn_0371.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54364124",
+    "kickoff": "2026-02-07T13:00:00Z",
+    "time_confirmed": true,
+    "competition": "友谊赛",
+    "competition_id": "643",
+    "round": null,
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50001590",
+      "name": "莫斯科斯巴达",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/80/F4/rBUESWIe5e6AaCAAAAA-jZQvGqg479.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54385621",
+    "kickoff": "2026-02-10T13:00:00Z",
+    "time_confirmed": true,
+    "competition": "友谊赛",
+    "competition_id": "643",
+    "round": null,
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50075135",
+      "name": "陶里亚蒂阿克隆",
+      "logo": "https://sd.qunliao.info/fastdfs8/M00/5E/D7/rBXRn2mAcnuAY01zAAAn3h2kP8Y087.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54397949",
+    "kickoff": "2026-02-24T07:00:00Z",
+    "time_confirmed": true,
+    "competition": "友谊赛",
+    "competition_id": "643",
+    "round": null,
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50122465",
+      "name": "广西恒宸",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/52/2E/rBUBsmlDzvGAEyjwAACQTPGsMj0205.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389766",
+    "kickoff": "2026-03-07T09:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "1",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50000334",
+      "name": "上海申花",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BE/rBUCgGHUJAKABZ2rAABdkkE5vtY777.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 5,
+      "away": 3
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54389779",
+    "kickoff": "2026-03-13T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "2",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50077677",
+      "name": "武汉三镇",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTu2AJbV0AABgSzGBSuk267.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54389787",
+    "kickoff": "2026-03-20T11:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "3",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50007190",
+      "name": "上海海港",
+      "logo": "https://sd.qunliao.info/fastdfs5/M00/6A/80/rB8BO2AbmgCAYbglAABlcqHyDWc494.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389800",
+    "kickoff": "2026-04-04T11:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "4",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50000335",
+      "name": "山东泰山",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389807",
+    "kickoff": "2026-04-10T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "5",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000341",
+      "name": "浙江",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/9E/FC/rBUESWJ-B_6AXUMjAABt3LDOeiI229.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389840",
+    "kickoff": "2026-04-18T11:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "6",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000339",
+      "name": "河南",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/16/D1/rBUESWQwC4aALFAMAAB8iqXx5Xk222.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389874",
+    "kickoff": "2026-04-22T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "7",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50016400",
+      "name": "辽宁铁人",
+      "logo": "https://sd.qunliao.info/fastdfs8/M00/75/07/rBXRn2nnObmAEDgWAACP2kSeLY0556.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389888",
+    "kickoff": "2026-04-26T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "8",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50117905",
+      "name": "云南玉昆",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGoYKAAylWAABfoAgM1WE169.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54389899",
+    "kickoff": "2026-05-01T11:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "9",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50122484",
+      "name": "重庆铜梁龙",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/76/30/rBUBsmZPDVWAAPedAAB3_VdHiZg577.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389928",
+    "kickoff": "2026-05-06T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "10",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50000330",
+      "name": "北京国安",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BB/rBUESWHUILmAZO2QAABrjKx8wJM240.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54390026",
+    "kickoff": "2026-05-10T12:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "11",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50000328",
+      "name": "青岛海牛",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/7B/83/rBUESWILWFqAcqM9AABsTvIPlX8444.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54390045",
+    "kickoff": "2026-05-15T12:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "12",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50093933",
+      "name": "青岛西海岸",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/92/59/rBUCgGQXu_qAP-evAABy0dTN8HM061.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54390027",
+    "kickoff": "2026-05-19T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "13",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50053965",
+      "name": "深圳新鹏城",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/44/FE/rBUC6GXMkeyASCkzAABoH7KLM-4511.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "D"
+  },
+  {
+    "id": "54390013",
+    "kickoff": "2026-05-23T12:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "14",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50076899",
+      "name": "成都蓉城",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/AB/8E/rBUCgGKew4CAUOkOAAA9_zjGZT8195.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389848",
+    "kickoff": "2026-05-31T11:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "15",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50000332",
+      "name": "天津津门虎",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/06/08/rBUCgGB2x6eAewcfAACQzgjTP-w378.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54457950",
+    "kickoff": "2026-06-19T11:30:00Z",
+    "time_confirmed": true,
+    "competition": "足协杯",
+    "competition_id": "251",
+    "round": null,
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50129034",
+      "name": "杭州临平吴越",
+      "logo": "https://sd.qunliao.info/fastdfs8/M00/7E/5A/rBXRn2mMLdqAaJZrAACCMmy7Qgs669.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "D"
+  },
+  {
+    "id": "54389944",
+    "kickoff": "2026-06-28T11:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "16",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000334",
+      "name": "上海申花",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BE/rBUCgGHUJAKABZ2rAABdkkE5vtY777.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54389967",
+    "kickoff": "2026-07-04T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "17",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50077677",
+      "name": "武汉三镇",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTu2AJbV0AABgSzGBSuk267.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389989",
+    "kickoff": "2026-07-18T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "19",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000335",
+      "name": "山东泰山",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54488702",
+    "kickoff": "2026-07-21T12:00:00Z",
+    "time_confirmed": true,
+    "competition": "足协杯",
+    "competition_id": "251",
+    "round": null,
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50000339",
+      "name": "河南",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/16/D1/rBUESWQwC4aALFAMAAB8iqXx5Xk222.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "D"
+  },
+  {
+    "id": "54390010",
+    "kickoff": "2026-07-26T12:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "20",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50000341",
+      "name": "浙江",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/9E/FC/rBUESWJ-B_6AXUMjAABt3LDOeiI229.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54389995",
+    "kickoff": "2026-07-31T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "21",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50000339",
+      "name": "河南",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/16/D1/rBUESWQwC4aALFAMAAB8iqXx5Xk222.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "D"
+  },
+  {
+    "id": "54389978",
+    "kickoff": "2026-08-08T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "22",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50016400",
+      "name": "辽宁铁人",
+      "logo": "https://sd.qunliao.info/fastdfs8/M00/75/07/rBXRn2nnObmAEDgWAACP2kSeLY0556.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389972",
+    "kickoff": "2026-08-15T12:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "23",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50117905",
+      "name": "云南玉昆",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGoYKAAylWAABfoAgM1WE169.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54390001",
+    "kickoff": "2026-08-19T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "18",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50007190",
+      "name": "上海海港",
+      "logo": "https://sd.qunliao.info/fastdfs5/M00/6A/80/rB8BO2AbmgCAYbglAABlcqHyDWc494.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "D"
+  },
+  {
+    "id": "54389946",
+    "kickoff": "2026-08-23T12:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "24",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50122484",
+      "name": "重庆铜梁龙",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/76/30/rBUBsmZPDVWAAPedAAB3_VdHiZg577.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389926",
+    "kickoff": "2026-08-28T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "25",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000330",
+      "name": "北京国安",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BB/rBUESWHUILmAZO2QAABrjKx8wJM240.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "D"
+  },
+  {
+    "id": "54524983",
+    "kickoff": "2026-09-01T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "足协杯",
+    "competition_id": "251",
+    "round": null,
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000334",
+      "name": "上海申花",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BE/rBUCgGHUJAKABZ2rAABdkkE5vtY777.png"
+    },
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389909",
+    "kickoff": "2026-09-05T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "26",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000328",
+      "name": "青岛海牛",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/7B/83/rBUESWILWFqAcqM9AABsTvIPlX8444.png"
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389893",
+    "kickoff": "2026-10-11T10:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "27",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50093933",
+      "name": "青岛西海岸",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/92/59/rBUCgGQXu_qAP-evAABy0dTN8HM061.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389849",
+    "kickoff": "2026-10-17T11:00:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "28",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50053965",
+      "name": "深圳新鹏城",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/44/FE/rBUC6GXMkeyASCkzAABoH7KLM-4511.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54389871",
+    "kickoff": "2026-10-24T07:30:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "29",
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50076899",
+      "name": "成都蓉城",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/AB/8E/rBUCgGKew4CAUOkOAAA9_zjGZT8195.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54589967",
+    "kickoff": "2026-11-01T11:35:00Z",
+    "time_confirmed": true,
+    "competition": "足协杯",
+    "competition_id": "251",
+    "round": null,
+    "status": "played",
+    "venue": "away",
+    "home": {
+      "id": "50117905",
+      "name": "云南玉昆",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGoYKAAylWAABfoAgM1WE169.png"
+    },
+    "away": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "score": {
+      "home": 4,
+      "away": 3
+    },
+    "penalties": null,
+    "result": "L"
+  },
+  {
+    "id": "54389817",
+    "kickoff": "2026-11-08T07:30:00Z",
+    "time_confirmed": true,
+    "competition": "中超",
+    "competition_id": "43",
+    "round": "30",
+    "status": "played",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50000332",
+      "name": "天津津门虎",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/06/08/rBUCgGB2x6eAewcfAACQzgjTP-w378.png"
+    },
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "penalties": null,
+    "result": "W"
+  },
+  {
+    "id": "54646220",
+    "kickoff": "2027-02-21T07:30:00Z",
+    "time_confirmed": true,
+    "competition": "中国足协超级杯",
+    "competition_id": "993",
+    "round": null,
+    "status": "fixture",
+    "venue": "home",
+    "home": {
+      "id": "50122423",
+      "name": "大连英博",
+      "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png"
+    },
+    "away": {
+      "id": "50103991",
+      "name": "待定",
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/20/64/rBUCgGDS_LeACPE7AAAdUDjhwco543.png"
+    },
+    "score": null,
+    "penalties": null,
+    "result": null
+  }
+]

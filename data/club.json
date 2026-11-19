@@ -1,0 +1,17 @@
+{
+  "name_zh": "大连英博",
+  "name_en": "Dalian Yingbo",
+  "short_zh": "英博",
+  "city": "大连",
+  "founded": 2021,
+  "stadium": "中升梭鱼湾足球场",
+  "stadium_en": "Dalian Suoyuwan Football Stadium",
+  "capacity": 63000,
+  "colors": { "primary": "#153b91", "accent": "#e8b423" },
+  "logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+  "league": "中国足球超级联赛",
+  "league_en": "Chinese Super League",
+  "city_en": "Dalian",
+  "league_short": "中超",
+  "dongqiudi_team_id": "122423"
+}

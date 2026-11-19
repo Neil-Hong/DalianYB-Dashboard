@@ -1,0 +1,7 @@
+/* Styles for CareerTable (src/components/player/CareerTable.tsx). Rules inside @scope apply only within that component; its own root element is :scope. */
+
+@scope (.career) {
+  .cclub { display: inline-flex; align-items: center; gap: 8px; }
+  :scope tbody tr { transition: background .2s; }
+  :scope tbody tr:not(.us):hover td { background: var(--bg); }
+}

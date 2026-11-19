@@ -1,0 +1,14 @@
+# Hand-maintained news settings. Ids are the numbers in dongqiudi article links
+# (https://www.dongqiudi.com/articles/<id>.html), also shown in data/news.json.
+# Changes apply on the next `npm run build` / while `npm run dev` restarts.
+
+# Leave these off the site (promos, off-topic items).
+hide:
+  - "6665849"  # 专栏组成长计划 (懂球帝 promo)
+
+# Shown first on the news page, in this order.
+pin: []
+
+# Your own one-line comment, shown under the headline.
+notes: {}
+#  "6661303": 蓉城的贺信很有格局。

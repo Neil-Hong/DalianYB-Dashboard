@@ -1,0 +1,119 @@
+{
+  "id": "51100995",
+  "name_en": "Xiao Lirong",
+  "nationality": "中国",
+  "birth_date": "2005-06-29",
+  "height": 182,
+  "weight": 75,
+  "number": 59,
+  "position_zh": "前锋",
+  "market_value_eur": 75000,
+  "ability": {
+    "overall": 52,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 72
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 60
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 28
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 51
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 38
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 49
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 3,
+      "starts": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2026",
+      "club": "大连英博B队",
+      "apps": 23,
+      "starts": 11,
+      "goals": 3,
+      "assists": 1,
+      "yellow": 0,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2026-02-11",
+      "from": "成都顶耀蜀锦",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/E4/44/rBUC6Gkmm_qAew9KAAB0kq7xsIg108.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2025-03-10",
+      "from": "成都蓉城U19",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/AB/8E/rBUCgGKew4CAUOkOAAA9_zjGZT8195.png",
+      "to": "成都顶耀锦城",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/0B/DB/rBUC6GfZN7-AAfguAACR_YtoRuQ978.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "肖力荣",
+  "age": 21,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/51/rBXRDGr2x0yAPFQYAAAXnkLSGOM652.jpg",
+  "position": "attacker",
+  "u21": true,
+  "captain": false,
+  "season_stats": {
+    "apps": 3,
+    "goals": 0,
+    "assists": 0
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/51100995.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

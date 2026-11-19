@@ -1,0 +1,210 @@
+{
+  "id": "50490688",
+  "name_en": "Huang Zihao",
+  "nationality": "中国",
+  "birth_date": "2001-06-09",
+  "height": 188,
+  "weight": 77,
+  "foot": "右脚",
+  "number": 26,
+  "position_zh": "门将",
+  "market_value_eur": 275000,
+  "ability": {
+    "overall": 58,
+    "attributes": [
+      {
+        "key": "diving",
+        "label_zh": "扑救",
+        "value": 61
+      },
+      {
+        "key": "positioning",
+        "label_zh": "位置",
+        "value": 57
+      },
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 23
+      },
+      {
+        "key": "reflexes",
+        "label_zh": "反应",
+        "value": 59
+      },
+      {
+        "key": "kicking",
+        "label_zh": "开球",
+        "value": 54
+      },
+      {
+        "key": "handling",
+        "label_zh": "手型",
+        "value": 55
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 1,
+      "skill_moves": 1
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 14,
+      "starts": 14,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 2,
+      "red": 1
+    },
+    {
+      "season": "2025",
+      "club": "大连英博",
+      "apps": 18,
+      "starts": 18,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "南京城市",
+      "apps": 6,
+      "starts": 6,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "南京城市",
+      "apps": 18,
+      "starts": 18,
+      "goals": 0,
+      "assists": 1,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2022",
+      "club": "南京城市",
+      "apps": 12,
+      "starts": 12,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2021",
+      "club": "南京城市",
+      "apps": 32,
+      "starts": 32,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2020",
+      "club": "江苏苏宁",
+      "apps": 1,
+      "starts": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2025-01-15",
+      "from": "南京城市预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/9E/66/rBUESWJ8d1aAEDFIAABzd7dLaR4572.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2024-07-15",
+      "from": "南京城市",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/9E/66/rBUESWJ8d1aAEDFIAABzd7dLaR4572.png",
+      "to": "南京城市预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/9E/66/rBUESWJ8d1aAEDFIAABzd7dLaR4572.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-04-11",
+      "from": "江苏",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/69/AE/rB8CCmAXxDeAcdmSAABS-KLg4TQ291.png",
+      "to": "南京城市",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/9E/66/rBUESWJ8d1aAEDFIAABzd7dLaR4572.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-07-20",
+      "from": "江苏预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DuAXwWmAAAuzVz-1sU796.png",
+      "to": "江苏苏宁",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/12/ChNLklxT7wGALHo3AAA2cvA7bUQ189.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2019-07-31",
+      "from": "江苏苏宁",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/12/ChNLklxT7wGALHo3AAA2cvA7bUQ189.png",
+      "to": "江苏预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DuAXwWmAAAuzVz-1sU796.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2019-02-01",
+      "from": "江苏U19",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/69/AE/rB8CCmAXxDeAcdmSAABS-KLg4TQ291.png",
+      "to": "江苏苏宁",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/12/ChNLklxT7wGALHo3AAA2cvA7bUQ189.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 2,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "黄子豪",
+  "age": 25,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3E/rBXRn2r2yPKABcsoAAAb8e5HOig929.jpg",
+  "position": "goalkeeper",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 14,
+    "saves": 35,
+    "clearances": 13
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50490688.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

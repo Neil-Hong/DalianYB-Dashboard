@@ -1,0 +1,147 @@
+{
+  "id": "50797891",
+  "name_en": "Mao Weijie",
+  "nationality": "中国",
+  "birth_date": "2005-05-28",
+  "height": 175,
+  "weight": 64,
+  "foot": "右脚",
+  "number": 22,
+  "position_zh": "后卫",
+  "market_value_eur": 650000,
+  "ability": {
+    "overall": 58,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 80
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 69
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 50
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 60
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 51
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 52
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 26,
+      "starts": 25,
+      "goals": 2,
+      "assists": 3,
+      "yellow": 5,
+      "red": 1
+    },
+    {
+      "season": "2025",
+      "club": "辽宁U20",
+      "apps": 5,
+      "starts": 5,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "大连英博",
+      "apps": 25,
+      "starts": 12,
+      "goals": 2,
+      "assists": 1,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "大连英博",
+      "apps": 29,
+      "starts": 27,
+      "goals": 3,
+      "assists": 2,
+      "yellow": 5,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "大连智行",
+      "apps": 20,
+      "starts": 14,
+      "goals": 0,
+      "assists": 2,
+      "yellow": 1,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2021-12-31",
+      "from": "未知球队",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B9/F9/ChOxM1xIEDOAbu7VAAAWn39BUY0523.png",
+      "to": "大连读行",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/A1/D1/rBUESWKFv76AZFbVAACP03tZJIA832.png",
+      "type": "转会",
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    }
+  ],
+  "injuries": [
+    {
+      "team": "大连英博",
+      "type": "踝关节韧带撕裂",
+      "from": "2026-10-05",
+      "to": "2026-11-07"
+    }
+  ],
+  "name_zh": "毛伟杰",
+  "age": 21,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/E9/E7/rBXRn2ruzvuACzdCAAAaT0Glfvc852.jpg",
+  "position": "defender",
+  "u21": true,
+  "captain": false,
+  "season_stats": {
+    "apps": 26,
+    "goals": 2,
+    "assists": 3
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50797891.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

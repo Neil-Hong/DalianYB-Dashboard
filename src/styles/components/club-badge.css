@@ -1,0 +1,10 @@
+/* Styles for ClubBadge (src/components/player/ClubBadge.tsx). Rules inside @scope apply only within that component; its own root element is :scope. */
+
+@scope (.club-badge) {
+  :scope { width: var(--s); height: var(--s); flex: none; object-fit: contain; }
+  :scope.none {
+    display: inline-grid; place-items: center; border-radius: 50%;
+    background: var(--bg); border: 1px solid var(--line); color: var(--muted);
+    font-size: calc(var(--s) * .42); font-weight: 700;
+  }
+}

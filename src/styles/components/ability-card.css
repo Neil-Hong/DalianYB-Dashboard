@@ -1,0 +1,68 @@
+/* Styles for AbilityCard (src/components/player/AbilityCard.tsx). Rules inside @scope apply only within that component; its own root element is :scope. */
+
+@scope (.ab) {
+  :scope {
+    position: relative; overflow: hidden; padding: 20px; color: #fff; border: 0;
+    background:
+      radial-gradient(ellipse 60% 70% at 72% 45%, rgb(64 112 214 / .45), transparent 70%),
+      linear-gradient(150deg, #173f98 0%, #0d2560 55%, #081739 100%);
+  }
+  :scope::after { content: ""; position: absolute; inset: 0; pointer-events: none; border-radius: inherit; box-shadow: inset 0 0 0 1px rgb(232 180 35 / .22); }
+  .ab-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+  .ab-head h2 { font-size: 18px; }
+  .ab-note { font-size: 12px; color: #9fb0d8; }
+
+  .ab-body { display: grid; grid-template-columns: auto minmax(0, 1fr); align-items: center; gap: 8px 20px; margin-top: 8px; }
+  .ab-side { display: flex; flex-direction: column; align-items: center; gap: 18px; padding-left: 4px; }
+
+  .gauge { position: relative; width: 132px; aspect-ratio: 1; display: grid; place-items: center; }
+  .gauge svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+  .gauge-track { fill: rgb(4 12 36 / .35); stroke: rgb(255 255 255 / .1); stroke-width: 7; }
+  .gauge-arc { fill: none; stroke-width: 7; stroke-linecap: round; filter: drop-shadow(0 0 6px rgb(232 180 35 / .55)); }
+  .gauge-num { font-size: 46px; font-weight: 900; line-height: 1; letter-spacing: -.02em; margin-top: -8px;
+    background: linear-gradient(180deg, #fff6d6, #e8b423); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .gauge-cap { position: absolute; bottom: 30px; font-size: 10px; font-weight: 700; letter-spacing: .3em; padding-left: .3em; color: #9fb0d8; }
+
+  .stars { margin: 0; display: grid; gap: 6px; font-size: 12px; }
+  .stars div { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+  .stars dt { color: #b9c6e6; white-space: nowrap; }
+  .stars dd { margin: 0; letter-spacing: 1px; white-space: nowrap; }
+  .st { color: rgb(255 255 255 / .16); transition: color .4s calc(var(--i) * 70ms + .9s), text-shadow .4s calc(var(--i) * 70ms + .9s); }
+  .st.on { color: #f2c94c; text-shadow: 0 0 8px rgb(232 180 35 / .5); }
+
+  .radar-wrap { min-width: 0; }
+  .radar { width: 100%; max-width: 420px; height: auto; display: block; margin-inline: auto; overflow: visible; }
+  .web .ring { fill: none; stroke: rgb(255 255 255 / .1); stroke-width: 1; }
+  .web .ring:nth-child(even) { fill: rgb(255 255 255 / .025); }
+  .web .ring.outer { stroke: rgb(255 255 255 / .22); }
+  .web line { stroke: rgb(255 255 255 / .1); }
+  .web { transform-origin: 0 0; transition: transform .9s cubic-bezier(.2, .8, .2, 1), opacity .9s; }
+  .shape { fill: url(#ab-fill); stroke: #f2c94c; stroke-width: 2; stroke-linejoin: round; }
+  .dots circle { fill: #fff4cf; stroke: #e8b423; stroke-width: 1.6; }
+  .labels text { font-size: 12px; fill: #b9c6e6; transition: opacity .6s calc(var(--i) * 60ms + .5s), transform .6s calc(var(--i) * 60ms + .5s); }
+  .labels .lv { font-size: 15px; font-weight: 800; fill: #fff; }
+  .labels .lt { font-weight: 500; }
+  .radar:hover .shape { stroke-width: 2.6; }
+
+  /* initial state, only when JS will animate it (no-JS shows the final chart) */
+  @media (scripting: enabled) {
+    :scope[data-ability]:not(.ready) :is(.shape, .dots, .gauge-arc) { opacity: 0; }
+    :scope[data-ability]:not(.ready) .gauge-num { visibility: hidden; }
+    :scope[data-ability]:not(.play) .web { transform: scale(.4); opacity: 0; }
+    :scope[data-ability]:not(.play) .labels text { opacity: 0; }
+    :scope[data-ability]:not(.play) .st.on { color: rgb(255 255 255 / .16); text-shadow: none; }
+  }
+
+  .ab-empty { display: flex; flex-direction: column; align-items: center; gap: 12px; padding: 18px 8px 8px; text-align: center; }
+  .ab-empty svg { width: 150px; height: 150px; }
+  .ab-empty polygon { fill: none; stroke: rgb(255 255 255 / .16); stroke-dasharray: 3 4; }
+  .ab-empty p { margin: 0; max-width: 34ch; font-size: 14px; color: #b9c6e6; }
+
+  @media (max-width: 560px) {
+    .ab-body { grid-template-columns: minmax(0, 1fr); }
+    .ab-side { flex-direction: row; justify-content: center; flex-wrap: wrap; padding: 0; }
+    .gauge { width: 112px; }
+    .gauge-num { font-size: 38px; }
+    .gauge-cap { bottom: 24px; }
+  }
+}

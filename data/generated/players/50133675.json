@@ -1,0 +1,404 @@
+{
+  "id": "50133675",
+  "name_en": "Bi Jinhao",
+  "nationality": "中国",
+  "birth_date": "1991-01-05",
+  "height": 190,
+  "weight": 80,
+  "foot": "右脚",
+  "number": 24,
+  "position_zh": "后卫",
+  "market_value_eur": 25000,
+  "ability": {
+    "overall": 61,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 34
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 75
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 57
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 55
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 55
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 58
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 23,
+      "starts": 17,
+      "goals": 0,
+      "assists": 2,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "大连英博",
+      "apps": 9,
+      "starts": 4,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "山东泰山",
+      "apps": 6,
+      "starts": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "山东泰山",
+      "apps": 18,
+      "starts": 11,
+      "goals": 4,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "山东泰山",
+      "apps": 2,
+      "starts": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "长春亚泰",
+      "apps": 17,
+      "starts": 9,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2022",
+      "club": "上海申花",
+      "apps": 8,
+      "starts": 7,
+      "goals": 1,
+      "assists": 1,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2021",
+      "club": "上海申花",
+      "apps": 17,
+      "starts": 7,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2020",
+      "club": "上海绿地申花",
+      "apps": 19,
+      "starts": 14,
+      "goals": 5,
+      "assists": 1,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2019",
+      "club": "上海绿地申花",
+      "apps": 12,
+      "starts": 12,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2018",
+      "club": "上海绿地申花",
+      "apps": 2,
+      "starts": 2,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2017",
+      "club": "上海绿地申花",
+      "apps": 18,
+      "starts": 16,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2016",
+      "club": "上海绿地申花",
+      "apps": 6,
+      "starts": 5,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2015",
+      "club": "河南建业",
+      "apps": 30,
+      "starts": 29,
+      "goals": 4,
+      "assists": 1,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2014",
+      "club": "河南建业",
+      "apps": 7,
+      "starts": 3,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2012",
+      "club": "河南建业",
+      "apps": 6,
+      "starts": 2,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2008",
+      "club": "Dalian Shide S",
+      "apps": null,
+      "starts": 0,
+      "goals": 5,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2026-02-04",
+      "from": "山东泰山",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2025-12-31",
+      "from": "大连英博",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "to": "山东泰山",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2025-07-21",
+      "from": "山东泰山",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "租借",
+      "fee": "9万欧",
+      "fee_eur": 90000
+    },
+    {
+      "date": "2024-01-25",
+      "from": "长春亚泰",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTjCAXnwFAABoJI5zAdM049.png",
+      "to": "山东泰山",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-04-06",
+      "from": "上海申花",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BE/rBUCgGHUJAKABZ2rAABdkkE5vtY777.png",
+      "to": "长春亚泰",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/05/CC/rBUC6GfJTjCAXnwFAABoJI5zAdM049.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2019-02-01",
+      "from": "上海申花预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BE/rBUCgGHUJAKABZ2rAABdkkE5vtY777.png",
+      "to": "上海绿地申花",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DqAFnEMAAAuXrRsFKA503.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2018-07-13",
+      "from": "上海绿地申花",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DqAFnEMAAAuXrRsFKA503.png",
+      "to": "上海申花预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6A/BE/rBUCgGHUJAKABZ2rAABdkkE5vtY777.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2016-01-15",
+      "from": "河南建业",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/15/ChMf8FxT7xiAN2zjAABi6dYrAZA047.png",
+      "to": "上海绿地申花",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DqAFnEMAAAuXrRsFKA503.png",
+      "type": "转会",
+      "fee": "1000万欧",
+      "fee_eur": 10000000
+    },
+    {
+      "date": "2012-01-01",
+      "from": "河南预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/16/D1/rBUESWQwC4aALFAMAAB8iqXx5Xk222.png",
+      "to": "河南建业",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/15/ChMf8FxT7xiAN2zjAABi6dYrAZA047.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2011-07-01",
+      "from": "勒卡",
+      "from_logo": "https://sd.qunliao.info/fastdfs5/M00/14/C2/rB8CCl6mbUqAUnIgAABnHbId9qQ247.png",
+      "to": "河南预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/16/D1/rBUESWQwC4aALFAMAAB8iqXx5Xk222.png",
+      "type": "转会",
+      "fee": "6万欧",
+      "fee_eur": 60000
+    },
+    {
+      "date": "2011-01-01",
+      "from": "博阿维斯塔U19",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PKAFz6IAAAg1v-qCEU407.png",
+      "to": "勒卡",
+      "to_logo": "https://sd.qunliao.info/fastdfs5/M00/14/C2/rB8CCl6mbUqAUnIgAABnHbId9qQ247.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2010-01-01",
+      "from": "大连实德B队",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/74/ChOxM1xC2DuAFqGxAAA3htoSz6E212.png",
+      "to": "博阿维斯塔U19",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PKAFz6IAAAg1v-qCEU407.png",
+      "type": "免签",
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    },
+    {
+      "name": "中国足协杯冠军",
+      "count": 2,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUCgGGKLKKAWXM-AAD6CgBxR0k258.png"
+    },
+    {
+      "name": "中国足球甲级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUESWGKLryAX9qcAADuuRCiJII964.png"
+    },
+    {
+      "name": "懂球帝中超MVP",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/1C/14/rBUESWXxVuWAZ8TXAAFijnYhRQQ675.png"
+    }
+  ],
+  "injuries": [
+    {
+      "team": "大连英博",
+      "type": "腘绳肌损伤",
+      "from": "2026-10-19",
+      "to": "2026-11-07"
+    },
+    {
+      "team": "上海申花",
+      "type": "股骨骨折",
+      "from": "2022-07-04",
+      "to": "2022-12-31"
+    },
+    {
+      "team": "上海申花",
+      "type": "腿部受伤",
+      "from": "2018-02-27",
+      "to": "2018-03-12"
+    }
+  ],
+  "name_zh": "毕津浩",
+  "age": 35,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/A6/rBXRn2rcTVmABSVuAAAbMAmyRzM813.jpg",
+  "position": "defender",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 23,
+    "goals": 0,
+    "assists": 2
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50133675.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

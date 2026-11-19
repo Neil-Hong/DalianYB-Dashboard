@@ -1,0 +1,891 @@
+{
+  "season": "2026",
+  "staff": [
+    {
+      "id": "50410106",
+      "name_zh": "李国旭",
+      "name_en": null,
+      "nationality": "中国",
+      "age": 48,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3B/rBXRn2r2xmSAJMHAAAAa2j_cBT8111.jpg",
+      "group": "coach",
+      "role": "主教练"
+    },
+    {
+      "id": "50013557",
+      "name_zh": "马克-鲁丹",
+      "name_en": null,
+      "nationality": "澳大利亚/克罗地亚",
+      "age": 51,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/85/EE/rBXRn2ntfX2AKOFJAALyHnWnslw852.jpg",
+      "group": "coach",
+      "role": "助理教练"
+    },
+    {
+      "id": "50020859",
+      "name_zh": "李钢",
+      "name_en": null,
+      "nationality": "中国",
+      "age": 45,
+      "photo": "https://sd.qunliao.info/fastdfs6/M00/08/EC/rBUCgGCCldmADyhcAAAWzbXO7yc361.jpg",
+      "group": "coach",
+      "role": "助理教练"
+    },
+    {
+      "id": "50020976",
+      "name_zh": "刘玉建",
+      "name_en": null,
+      "nationality": "中国",
+      "age": 47,
+      "photo": "https://sd.qunliao.info/fastdfs7/M00/01/9C/rBUBsmfJQuCAEXVuAAB06y6qYNs415.png",
+      "group": "coach",
+      "role": "助理教练"
+    },
+    {
+      "id": "50389883",
+      "name_zh": "何泽豪",
+      "name_en": null,
+      "nationality": "中国",
+      "age": 37,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/D0/3E/rBXRDGmpQ22ACPuHAAAonDToMOs004.jpg",
+      "group": "coach",
+      "role": "助理教练"
+    },
+    {
+      "id": "51149893",
+      "name_zh": "陈韵峰",
+      "name_en": null,
+      "nationality": "中国",
+      "age": 27,
+      "photo": "https://sd.qunliao.info/fastdfs7/M00/15/29/rBUC6Girx1uAbgyuAAAyRUxvN-o520.jpg",
+      "group": "coach",
+      "role": "战术教练"
+    },
+    {
+      "id": "51122548",
+      "name_zh": "臧永亮",
+      "name_en": null,
+      "nationality": "中国",
+      "age": 44,
+      "photo": "https://sd.qunliao.info/fastdfs7/M00/46/B5/rBUC6Ghvac2AIpIzAABsM8Fm2_0350.png",
+      "group": "coach",
+      "role": "守门员教练"
+    },
+    {
+      "id": "50021052",
+      "name_zh": "郑涛",
+      "name_en": null,
+      "nationality": "中国",
+      "age": 41,
+      "photo": "https://sd.qunliao.info/fastdfs7/M00/01/9C/rBUBsmfJQq2AWZLdAABz5o7A58E905.png",
+      "group": "coach",
+      "role": "体能教练"
+    },
+    {
+      "id": "51149298",
+      "name_zh": "赵海滨",
+      "name_en": null,
+      "nationality": "中国",
+      "age": 43,
+      "photo": "https://sd.qunliao.info/fastdfs7/M00/11/C1/rBUC6GiqsPGAbhJeAAAvJ4LQnaM898.jpg",
+      "group": "coach",
+      "role": "体能教练"
+    },
+    {
+      "id": "50389905",
+      "name_zh": "王魁",
+      "name_en": null,
+      "nationality": "中国",
+      "age": 48,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/58/rBXRDGr2y92AFPAVAAAe2x8QTQU556.jpg",
+      "group": "manager",
+      "role": "老板"
+    },
+    {
+      "id": "50020960",
+      "name_zh": "陈东",
+      "name_en": null,
+      "nationality": "中国",
+      "age": 48,
+      "photo": "https://sd.qunliao.info/fastdfs7/M00/01/9C/rBUBsmfJQpyANWVgAAB5NPdz-Yk125.png",
+      "group": "manager",
+      "role": "总经理"
+    }
+  ],
+  "players": [
+    {
+      "id": "50149231",
+      "name_zh": "阿奇姆彭",
+      "name_en": "Frank Acheampong",
+      "nationality": "加纳",
+      "age": 33,
+      "photo": "https://sd.qunliao.info/fastdfs6/M00/B1/2F/rBUESWRHpCGACKCFAAAZmGnQ6CM296.jpg",
+      "number": 30,
+      "position": "attacker",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 500000,
+      "season_stats": {
+        "apps": 33,
+        "goals": 12,
+        "assists": 6
+      },
+      "birth_date": "1993-10-16",
+      "height": 172,
+      "foot": "左脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50149231.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50179713",
+      "name_zh": "马莱莱",
+      "name_en": "Cephas Malele",
+      "nationality": "瑞士/安哥拉",
+      "age": 32,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/43/6D/rBXRDGnUZiyAIeo6AAAYzV0KNRw619.jpg",
+      "number": 11,
+      "position": "attacker",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 700000,
+      "season_stats": {
+        "apps": 19,
+        "goals": 8,
+        "assists": 4
+      },
+      "birth_date": "1994-01-08",
+      "height": 185,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50179713.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50874402",
+      "name_zh": "朱鹏宇",
+      "name_en": "Zhu Pengyu",
+      "nationality": "中国",
+      "age": 21,
+      "photo": "https://sd.qunliao.info/fastdfs7/M00/FC/22/rBUC6GewedeASvbaAAAdFRFo9eI839.jpg",
+      "number": 16,
+      "position": "attacker",
+      "u21": true,
+      "captain": false,
+      "market_value_eur": 400000,
+      "season_stats": {
+        "apps": 16,
+        "goals": 1,
+        "assists": 0
+      },
+      "birth_date": "2005-05-09",
+      "height": 189,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50874402.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50235313",
+      "name_zh": "冯劲",
+      "name_en": "Feng Jin",
+      "nationality": "中国",
+      "age": 33,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/A7/rBXRn2rcTk6AVnZ0AAAajjmL1uM444.jpg",
+      "number": 44,
+      "position": "attacker",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 100000,
+      "season_stats": {
+        "apps": 9,
+        "goals": 1,
+        "assists": 0
+      },
+      "birth_date": "1993-08-14",
+      "height": 179,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50235313.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "51100995",
+      "name_zh": "肖力荣",
+      "name_en": "Xiao Lirong",
+      "nationality": "中国",
+      "age": 21,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/51/rBXRDGr2x0yAPFQYAAAXnkLSGOM652.jpg",
+      "number": 59,
+      "position": "attacker",
+      "u21": true,
+      "captain": false,
+      "market_value_eur": 75000,
+      "season_stats": {
+        "apps": 3,
+        "goals": 0,
+        "assists": 0
+      },
+      "birth_date": "2005-06-29",
+      "height": 182,
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/51100995.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50085866",
+      "name_zh": "斯坦丘",
+      "name_en": "Nicolae Stanciu",
+      "nationality": "罗马尼亚",
+      "age": 33,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/A4/rBXRn2rcTFGAJCgFAAAeDd7uHNY895.jpg",
+      "number": 10,
+      "position": "midfielder",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 1800000,
+      "season_stats": {
+        "apps": 30,
+        "goals": 13,
+        "assists": 5
+      },
+      "birth_date": "1993-05-07",
+      "height": 170,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50085866.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50164608",
+      "name_zh": "罗竞",
+      "name_en": "Luo Jing",
+      "nationality": "中国",
+      "age": 33,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/51/rBXRDGr2xuqAC9-EAAAZFhGqCm4122.jpg",
+      "number": 7,
+      "position": "midfielder",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 75000,
+      "season_stats": {
+        "apps": 31,
+        "goals": 4,
+        "assists": 3
+      },
+      "birth_date": "1993-11-04",
+      "height": 180,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50164608.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50839727",
+      "name_zh": "杨铭锐",
+      "name_en": "Yang Mingrui",
+      "nationality": "中国",
+      "age": 19,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/58/E1/rBXRDGqf5pqALgq0AAAd8pApmgA375.jpg",
+      "number": 27,
+      "position": "midfielder",
+      "u21": true,
+      "captain": false,
+      "market_value_eur": 250000,
+      "season_stats": {
+        "apps": 31,
+        "goals": 3,
+        "assists": 2
+      },
+      "birth_date": "2007-04-05",
+      "height": 180,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50839727.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50492278",
+      "name_zh": "廖锦涛",
+      "name_en": "Liao Jintao",
+      "nationality": "中国",
+      "age": 26,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/4C/CD/rBXRn2l5vmuAXvLQAAG5OxsyaxE069.png",
+      "number": 40,
+      "position": "midfielder",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 500000,
+      "season_stats": {
+        "apps": 32,
+        "goals": 2,
+        "assists": 1
+      },
+      "birth_date": "2000-02-24",
+      "height": 180,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50492278.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50127576",
+      "name_zh": "阿利米",
+      "name_en": "Isnik Alimi",
+      "nationality": "北马其顿/阿尔巴尼亚",
+      "age": 32,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/B1/rBXRDGrcTquAXvCRAAAdGeEX2Qc706.jpg",
+      "number": 4,
+      "position": "midfielder",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 500000,
+      "season_stats": {
+        "apps": 30,
+        "goals": 2,
+        "assists": 1
+      },
+      "birth_date": "1994-02-02",
+      "height": 186,
+      "foot": "左脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50127576.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50203528",
+      "name_zh": "德尔加多",
+      "name_en": "De Erjiaduo",
+      "nationality": "中国",
+      "age": 29,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/AE/rBXRDGrcTHyAO7fTAAAcHpcOeC8258.jpg",
+      "number": 9,
+      "position": "midfielder",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 150000,
+      "season_stats": {
+        "apps": 10,
+        "goals": 2,
+        "assists": 1
+      },
+      "birth_date": "1997-04-07",
+      "height": 188,
+      "foot": "左脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50203528.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50953374",
+      "name_zh": "黄山",
+      "name_en": "Huang Shan",
+      "nationality": "中国",
+      "age": 20,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3C/rBXRn2r2xwqAMM0MAAAbjd1chGI083.jpg",
+      "number": 23,
+      "position": "midfielder",
+      "u21": true,
+      "captain": false,
+      "market_value_eur": 50000,
+      "season_stats": {
+        "apps": 16,
+        "goals": 1,
+        "assists": 0
+      },
+      "birth_date": "2006-03-23",
+      "height": 185,
+      "foot": "左脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50953374.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50280178",
+      "name_zh": "张华晨",
+      "name_en": "Zhang Huachen",
+      "nationality": "中国",
+      "age": 28,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3C/rBXRn2r2xzKAPKItAAAcrFV9OpM173.jpg",
+      "number": 8,
+      "position": "midfielder",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 150000,
+      "season_stats": {
+        "apps": 19,
+        "goals": 0,
+        "assists": 1
+      },
+      "birth_date": "1998-03-16",
+      "height": 176,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50280178.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50017898",
+      "name_zh": "吕鹏",
+      "name_en": "Lyu Peng",
+      "nationality": "中国",
+      "age": 37,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F0/76/rBXRDGryssKANEauAAAaLkbZVo8104.jpg",
+      "number": 21,
+      "position": "midfielder",
+      "u21": false,
+      "captain": true,
+      "market_value_eur": 10000,
+      "season_stats": {
+        "apps": 18,
+        "goals": 0,
+        "assists": 0
+      },
+      "birth_date": "1989-10-28",
+      "height": 182,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50017898.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50981357",
+      "name_zh": "张城瑞",
+      "name_en": "Zhang Chengrui",
+      "nationality": "中国",
+      "age": 18,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/52/rBXRDGr2x9CAbzG7AAAZlTZud4A306.jpg",
+      "number": 37,
+      "position": "midfielder",
+      "u21": true,
+      "captain": false,
+      "market_value_eur": null,
+      "season_stats": {
+        "apps": 1,
+        "goals": 0,
+        "assists": 0
+      },
+      "birth_date": "2008-03-15",
+      "height": 175,
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50981357.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50797891",
+      "name_zh": "毛伟杰",
+      "name_en": "Mao Weijie",
+      "nationality": "中国",
+      "age": 21,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/E9/E7/rBXRn2ruzvuACzdCAAAaT0Glfvc852.jpg",
+      "number": 22,
+      "position": "defender",
+      "u21": true,
+      "captain": false,
+      "market_value_eur": 650000,
+      "season_stats": {
+        "apps": 26,
+        "goals": 2,
+        "assists": 3
+      },
+      "birth_date": "2005-05-28",
+      "height": 175,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50797891.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50752142",
+      "name_zh": "吕焯毅",
+      "name_en": "Lyu Zhuoyi",
+      "nationality": "中国",
+      "age": 25,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/A5/rBXRn2rcTPGAULfxAAAc86SaFQM715.jpg",
+      "number": 38,
+      "position": "defender",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 600000,
+      "season_stats": {
+        "apps": 33,
+        "goals": 2,
+        "assists": 2
+      },
+      "birth_date": "2001-04-16",
+      "height": 178,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50752142.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50250381",
+      "name_zh": "马马杜-特拉奥雷",
+      "name_en": "Mamadou Traoré",
+      "nationality": "马里",
+      "age": 32,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3C/rBXRn2r2x5yAYpqnAAAYm-5lWvk267.jpg",
+      "number": 2,
+      "position": "defender",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 600000,
+      "season_stats": {
+        "apps": 29,
+        "goals": 2,
+        "assists": 1
+      },
+      "birth_date": "1994-10-03",
+      "height": 191,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50250381.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50133675",
+      "name_zh": "毕津浩",
+      "name_en": "Bi Jinhao",
+      "nationality": "中国",
+      "age": 35,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/A6/rBXRn2rcTVmABSVuAAAbMAmyRzM813.jpg",
+      "number": 24,
+      "position": "defender",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 25000,
+      "season_stats": {
+        "apps": 23,
+        "goals": 0,
+        "assists": 2
+      },
+      "birth_date": "1991-01-05",
+      "height": 190,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50133675.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50254045",
+      "name_zh": "冯博轩",
+      "name_en": "Feng Boxuan",
+      "nationality": "中国",
+      "age": 29,
+      "photo": "https://sd.qunliao.info/fastdfs7/M00/4B/74/rBUBsmXlpoiAdWyHAAAbw6Rhpig563.jpg",
+      "number": 12,
+      "position": "defender",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 100000,
+      "season_stats": {
+        "apps": 16,
+        "goals": 0,
+        "assists": 1
+      },
+      "birth_date": "1997-03-18",
+      "height": 181,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50254045.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50438345",
+      "name_zh": "宋岳",
+      "name_en": "Song Yue",
+      "nationality": "中国",
+      "age": 34,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/A6/rBXRn2rcTfiAFzvRAAAaaWx0isA646.jpg",
+      "number": 6,
+      "position": "defender",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 25000,
+      "season_stats": {
+        "apps": 16,
+        "goals": 0,
+        "assists": 0
+      },
+      "birth_date": "1991-11-20",
+      "height": 185,
+      "foot": "左脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50438345.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50795377",
+      "name_zh": "孙康博",
+      "name_en": "Sun Kangbo",
+      "nationality": "中国",
+      "age": 20,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3D/rBXRn2r2yDOAQcvwAAAdAAfTP8o671.jpg",
+      "number": 28,
+      "position": "defender",
+      "u21": true,
+      "captain": false,
+      "market_value_eur": 150000,
+      "season_stats": {
+        "apps": 11,
+        "goals": 0,
+        "assists": 0
+      },
+      "birth_date": "2006-08-19",
+      "height": 180,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50795377.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "51136483",
+      "name_zh": "彭顺杰",
+      "name_en": "Peng Shunjie",
+      "nationality": "中国",
+      "age": 19,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/B0/rBXRDGrcThyAXRt1AAAbH_sYKcY596.jpg",
+      "number": 5,
+      "position": "defender",
+      "u21": true,
+      "captain": false,
+      "market_value_eur": null,
+      "season_stats": {
+        "apps": 4,
+        "goals": 0,
+        "assists": 0
+      },
+      "birth_date": "2007-07-03",
+      "height": 184,
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/51136483.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50333890",
+      "name_zh": "温家宝",
+      "name_en": "Wen Jiabao",
+      "nationality": "中国",
+      "age": 27,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3D/rBXRn2r2yAmAARz7AAAZvtksY90894.jpg",
+      "number": 15,
+      "position": "defender",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 125000,
+      "season_stats": {
+        "apps": 3,
+        "goals": 0,
+        "assists": 0
+      },
+      "birth_date": "1999-01-02",
+      "height": 177,
+      "foot": "左脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50333890.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50149373",
+      "name_zh": "曹海清",
+      "name_en": "Cao Haiqing",
+      "nationality": "中国",
+      "age": 33,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3E/rBXRn2r2yG6AFoDXAAAaxXS51cg515.jpg",
+      "number": 33,
+      "position": "defender",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 75000,
+      "season_stats": {
+        "apps": 3,
+        "goals": 0,
+        "assists": 0
+      },
+      "birth_date": "1993-09-28",
+      "height": 174,
+      "foot": "左脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50149373.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50875942",
+      "name_zh": "曾俊豪",
+      "name_en": "Zeng Junhao",
+      "nationality": "中国",
+      "age": 21,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3E/rBXRn2r2yJSADXxGAAAYxlOifzY075.jpg",
+      "number": 56,
+      "position": "defender",
+      "u21": true,
+      "captain": false,
+      "market_value_eur": null,
+      "season_stats": {
+        "apps": null,
+        "goals": null,
+        "assists": null
+      },
+      "birth_date": "2005-06-13",
+      "height": 178,
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50875942.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50118775",
+      "name_zh": "刘伟国",
+      "name_en": "Weiguo Liu",
+      "nationality": "中国",
+      "age": 34,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/A5/rBXRn2rcTR-AbrtxAAAaZZbqgao766.jpg",
+      "number": 20,
+      "position": "goalkeeper",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 50000,
+      "season_stats": {
+        "apps": 21,
+        "saves": 52,
+        "clearances": 41
+      },
+      "birth_date": "1992-05-03",
+      "height": 197,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50118775.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50490688",
+      "name_zh": "黄子豪",
+      "name_en": "Huang Zihao",
+      "nationality": "中国",
+      "age": 25,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3E/rBXRn2r2yPKABcsoAAAb8e5HOig929.jpg",
+      "number": 26,
+      "position": "goalkeeper",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 275000,
+      "season_stats": {
+        "apps": 14,
+        "saves": 35,
+        "clearances": 13
+      },
+      "birth_date": "2001-06-09",
+      "height": 188,
+      "foot": "右脚",
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50490688.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50560280",
+      "name_zh": "王晓峰",
+      "name_en": "Wang Xiaofeng",
+      "nationality": "中国",
+      "age": 25,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/3E/rBXRn2r2yLyAbVlQAAAXISU_INA068.jpg",
+      "number": null,
+      "position": "goalkeeper",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": null,
+      "season_stats": {
+        "apps": null,
+        "saves": null,
+        "clearances": null
+      },
+      "birth_date": "2001-07-01",
+      "height": 186,
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50560280.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    },
+    {
+      "id": "50663865",
+      "name_zh": "葛彭",
+      "name_en": "Ge Peng",
+      "nationality": "中国",
+      "age": 26,
+      "photo": "https://sd.qunliao.info/fastdfs8/M00/F6/54/rBXRDGr2yNeAJ3sEAAAa4nHC_SA783.jpg",
+      "number": 1,
+      "position": "goalkeeper",
+      "u21": false,
+      "captain": false,
+      "market_value_eur": 25000,
+      "season_stats": {
+        "apps": null,
+        "saves": null,
+        "clearances": null
+      },
+      "birth_date": "2000-07-20",
+      "height": 188,
+      "links": {
+        "dongqiudi": "https://www.dongqiudi.com/player/50663865.html",
+        "fbref": null,
+        "transfermarkt": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+# dependencies and build output
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Python
+.venv/
+__pycache__/
+
+# scraper working files (raw saved pages, HTTP cache, manual-import inbox)
+scraper/.cache/
+scraper/saved/
+inbox/
+
+# local only: secrets, logs, tests, backups, AI/editor tooling
+.env
+*.log
+tests/
+test_*.py
+*_test.py
+*.test.ts
+*.test.tsx
+astro-backup-*.tar.gz
+.claude/
+CLAUDE.md
+AGENTS.md

@@ -1,0 +1,422 @@
+{
+  "id": "50203528",
+  "name_en": "De Erjiaduo",
+  "nationality": "中国",
+  "birth_date": "1997-04-07",
+  "height": 188,
+  "weight": 71,
+  "foot": "左脚",
+  "number": 9,
+  "position_zh": "中场",
+  "market_value_eur": 150000,
+  "ability": {
+    "overall": 60,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 63
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 66
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 43
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 60
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 64
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 58
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 3
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 10,
+      "starts": 8,
+      "goals": 2,
+      "assists": 1,
+      "yellow": 2,
+      "red": 2
+    },
+    {
+      "season": "2026",
+      "club": "山东泰山",
+      "apps": 1,
+      "starts": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "成都蓉城",
+      "apps": 27,
+      "starts": 13,
+      "goals": 4,
+      "assists": 2,
+      "yellow": 4,
+      "red": 2
+    },
+    {
+      "season": "2024",
+      "club": "山东泰山",
+      "apps": 32,
+      "starts": 7,
+      "goals": 7,
+      "assists": 1,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "苏州东吴",
+      "apps": 11,
+      "starts": 8,
+      "goals": 0,
+      "assists": 2,
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "season": "2023",
+      "club": "山东泰山",
+      "apps": 1,
+      "starts": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "season": "2022",
+      "club": "昆山",
+      "apps": 18,
+      "starts": 8,
+      "goals": 7,
+      "assists": 2,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2021",
+      "club": "山东泰山",
+      "apps": 18,
+      "starts": 10,
+      "goals": 9,
+      "assists": 3,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2019/2020",
+      "club": "阿维斯体育",
+      "apps": 4,
+      "starts": 1,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "season": "2019",
+      "club": "山东鲁能泰山",
+      "apps": 8,
+      "starts": 5,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2017/2018",
+      "club": "葡萄牙体育二队",
+      "apps": 29,
+      "starts": 21,
+      "goals": 6,
+      "assists": 0,
+      "yellow": 6,
+      "red": 2
+    },
+    {
+      "season": "2016/2017",
+      "club": "葡萄牙体育二队",
+      "apps": 28,
+      "starts": 27,
+      "goals": 5,
+      "assists": 0,
+      "yellow": 7,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2026-12-31",
+      "from": "大连英博",
+      "from_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "to": "山东泰山",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2026-07-13",
+      "from": "山东泰山",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/00/BE/rBUBsmfGociAIl-eAABbDiCyplo306.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2025-12-31",
+      "from": "成都蓉城",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/AB/8E/rBUCgGKew4CAUOkOAAA9_zjGZT8195.png",
+      "to": "山东泰山",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2025-02-17",
+      "from": "山东泰山",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "成都蓉城",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/AB/8E/rBUCgGKew4CAUOkOAAA9_zjGZT8195.png",
+      "type": "租借",
+      "fee": "92万欧",
+      "fee_eur": 920000
+    },
+    {
+      "date": "2024-02-01",
+      "from": "山东泰山预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "山东泰山",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-12-31",
+      "from": "苏州东吴",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/92/ChOxM1xC3HeAb6SzAACGjQi3xPE579.png",
+      "to": "山东泰山预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-07-19",
+      "from": "山东泰山预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "苏州东吴",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/92/ChOxM1xC3HeAb6SzAACGjQi3xPE579.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2023-04-12",
+      "from": "山东泰山",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "山东泰山预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2022-12-31",
+      "from": "昆山",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8E/ChOxM1xC23eAbm3jAAC2cw8Rlmo368.png",
+      "to": "山东泰山",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2022-08-26",
+      "from": "山东泰山预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "昆山",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/8E/ChOxM1xC23eAbm3jAAC2cw8Rlmo368.png",
+      "type": "租借",
+      "fee": "15万欧",
+      "fee_eur": 150000
+    },
+    {
+      "date": "2022-05-05",
+      "from": "山东泰山",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "山东泰山预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2021-04-01",
+      "from": "山东泰山预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "山东泰山",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-07-24",
+      "from": "山东鲁能泰山",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/13/ChNLklxT7xCASg2wAABEUN-nfQU819.png",
+      "to": "山东泰山预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-06-30",
+      "from": "阿维斯体育",
+      "from_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PaAG9zeAAAVu_FEpZg765.png",
+      "to": "山东鲁能泰山",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/13/ChNLklxT7xCASg2wAABEUN-nfQU819.png",
+      "type": "租借回归",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2020-01-31",
+      "from": "山东鲁能泰山",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/13/ChNLklxT7xCASg2wAABEUN-nfQU819.png",
+      "to": "阿维斯体育",
+      "to_logo": "https://sd.qunliao.info/fastdfs3/M00/B5/7C/ChOxM1xC2PaAG9zeAAAVu_FEpZg765.png",
+      "type": "租借",
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2019-02-28",
+      "from": "山东泰山预备队",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "to": "山东鲁能泰山",
+      "to_logo": "https://sd.qunliao.info/fastdfs4/M00/C8/13/ChNLklxT7xCASg2wAABEUN-nfQU819.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2018-08-01",
+      "from": "葡萄牙体育二队",
+      "from_logo": "https://sd.qunliao.info/fastdfs8/M00/8A/AF/rBXRDGpRviSAAyzRAABMza_UXFA993.png",
+      "to": "山东泰山预备队",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/6D/5C/rBUESWHdOG-AU0sxAAA7ap1fWo4085.png",
+      "type": "转会",
+      "fee": "80万欧",
+      "fee_eur": 800000
+    },
+    {
+      "date": "2016-08-28",
+      "from": "国际米兰U19",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/3A/1F/rBUCgGEm76-AG-wfAABm36DKTJA735.png",
+      "to": "葡萄牙体育二队",
+      "to_logo": "https://sd.qunliao.info/fastdfs8/M00/8A/AF/rBXRDGpRviSAAyzRAABMza_UXFA993.png",
+      "type": "转会",
+      "fee": "40万欧",
+      "fee_eur": 400000
+    },
+    {
+      "date": "2014-07-01",
+      "from": "国际米兰U17",
+      "from_logo": "https://sd.qunliao.info/fastdfs6/M00/3A/1F/rBUCgGEm76-AG-wfAABm36DKTJA735.png",
+      "to": "国际米兰U19",
+      "to_logo": "https://sd.qunliao.info/fastdfs6/M00/3A/1F/rBUCgGEm76-AG-wfAABm36DKTJA735.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 2,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    },
+    {
+      "name": "中国足协杯冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUCgGGKLKKAWXM-AAD6CgBxR0k258.png"
+    },
+    {
+      "name": "中国足球甲级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E1/rBUESWGKLryAX9qcAADuuRCiJII964.png"
+    },
+    {
+      "name": "懂球帝中超MVP",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/1C/14/rBUESWXxVuWAZ8TXAAFijnYhRQQ675.png"
+    },
+    {
+      "name": "意大利青年杯冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/DF/rBUESWGKKAaAdUPqAADZwvi7vaU458.png"
+    },
+    {
+      "name": "意大利U17超级杯冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/DF/rBUESWGKKAaAdUPqAADZwvi7vaU458.png"
+    }
+  ],
+  "injuries": [
+    {
+      "team": "葡萄牙体育二队",
+      "type": "未知伤病",
+      "from": "2017-12-20",
+      "to": "2018-02-06"
+    }
+  ],
+  "name_zh": "德尔加多",
+  "age": 29,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/CB/AE/rBXRDGrcTHyAO7fTAAAcHpcOeC8258.jpg",
+  "position": "midfielder",
+  "u21": false,
+  "captain": false,
+  "season_stats": {
+    "apps": 10,
+    "goals": 2,
+    "assists": 1
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50203528.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}

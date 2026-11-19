@@ -1,0 +1,184 @@
+# Hand-maintained player overrides, keyed by dongqiudi player id.
+# Any field set here replaces the scraped value (e.g. name_en, number, nationality).
+# links: ids on other sites, used by later scrapers.
+# New squad members are appended automatically; existing entries are never touched.
+
+"50663865":  # 1 葛彭
+  # name_en: Ge Peng
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50250381":  # 2 马马杜-特拉奥雷
+  # name_en: Mamadou Traoré
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50127576":  # 4 阿利米
+  # name_en: Isnik Alimi
+  links:
+    fbref: null
+    transfermarkt: null
+
+"51136483":  # 5 彭顺杰
+  # name_en: Peng Shunjie
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50438345":  # 6 宋岳
+  # name_en: Song Yue
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50164608":  # 7 罗竞
+  # name_en: Luo Jing
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50280178":  # 8 张华晨
+  # name_en: Zhang Huachen
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50203528":  # 9 德尔加多
+  # name_en: De Erjiaduo
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50085866":  # 10 斯坦丘
+  # name_en: Nicolae Stanciu
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50179713":  # 11 马莱莱
+  # name_en: Cephas Malele
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50254045":  # 12 冯博轩
+  # name_en: Feng Boxuan
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50333890":  # 15 温家宝
+  # name_en: Wen Jiabao
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50874402":  # 16 朱鹏宇
+  # name_en: Zhu Pengyu
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50118775":  # 20 刘伟国
+  # name_en: Weiguo Liu
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50017898":  # 21 吕鹏
+  # name_en: Lyu Peng
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50797891":  # 22 毛伟杰
+  # name_en: Mao Weijie
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50953374":  # 23 黄山
+  # name_en: Huang Shan
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50133675":  # 24 毕津浩
+  # name_en: Bi Jinhao
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50490688":  # 26 黄子豪
+  # name_en: Huang Zihao
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50839727":  # 27 杨铭锐
+  # name_en: Yang Mingrui
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50795377":  # 28 孙康博
+  # name_en: Sun Kangbo
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50149231":  # 30 阿奇姆彭
+  # name_en: Frank Acheampong
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50149373":  # 33 曹海清
+  # name_en: Cao Haiqing
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50981357":  # 37 张城瑞
+  # name_en: Zhang Chengrui
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50752142":  # 38 吕焯毅
+  # name_en: Lyu Zhuoyi
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50492278":  # 40 廖锦涛
+  # name_en: Liao Jintao
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50235313":  # 44 冯劲
+  # name_en: Feng Jin
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50875942":  # 56 曾俊豪
+  # name_en: Zeng Junhao
+  links:
+    fbref: null
+    transfermarkt: null
+
+"51100995":  # 59 肖力荣
+  # name_en: Xiao Lirong
+  links:
+    fbref: null
+    transfermarkt: null
+
+"50560280":  # - 王晓峰
+  # name_en: Wang Xiaofeng
+  links:
+    fbref: null
+    transfermarkt: null

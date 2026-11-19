@@ -1,0 +1,130 @@
+{
+  "id": "50839727",
+  "name_en": "Yang Mingrui",
+  "nationality": "中国",
+  "birth_date": "2007-04-05",
+  "height": 180,
+  "weight": 69,
+  "foot": "右脚",
+  "number": 27,
+  "position_zh": "中场",
+  "market_value_eur": 250000,
+  "ability": {
+    "overall": 57,
+    "attributes": [
+      {
+        "key": "pace",
+        "label_zh": "速度",
+        "value": 78
+      },
+      {
+        "key": "physical",
+        "label_zh": "力量",
+        "value": 56
+      },
+      {
+        "key": "defending",
+        "label_zh": "防守",
+        "value": 21
+      },
+      {
+        "key": "dribbling",
+        "label_zh": "盘带",
+        "value": 59
+      },
+      {
+        "key": "passing",
+        "label_zh": "传球",
+        "value": 44
+      },
+      {
+        "key": "shooting",
+        "label_zh": "射门",
+        "value": 50
+      }
+    ],
+    "stars": {
+      "reputation": 1,
+      "weak_foot": 3,
+      "skill_moves": 2
+    }
+  },
+  "career": [
+    {
+      "season": "2026",
+      "club": "大连英博",
+      "apps": 31,
+      "starts": 19,
+      "goals": 3,
+      "assists": 2,
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "season": "2025",
+      "club": "大连英博",
+      "apps": 19,
+      "starts": 6,
+      "goals": 1,
+      "assists": 0,
+      "yellow": 2,
+      "red": 0
+    },
+    {
+      "season": "2024",
+      "club": "大连英博",
+      "apps": 1,
+      "starts": 0,
+      "goals": 0,
+      "assists": 0,
+      "yellow": 0,
+      "red": 0
+    }
+  ],
+  "transfers": [
+    {
+      "date": "2024-07-11",
+      "from": "自由球员",
+      "from_logo": "https://sd.qunliao.info/fastdfs3//M00//B9//F9//ChOxM1xIEDOAbu7VAAAWn39BUY0523.png",
+      "to": "大连英博",
+      "to_logo": "https://sd.qunliao.info/fastdfs7/M00/39/60/rBUC6GW3gpyACWrpAACI80lqkog069.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    },
+    {
+      "date": "2024-01-17",
+      "from": "大连人青年队",
+      "from_logo": "https://sd.qunliao.info/fastdfs4/M00/FC/DF/ChMf8F4m0H6AI36xAAB1EOWs2j8999.png",
+      "to": "自由球员",
+      "to_logo": "https://sd.qunliao.info/fastdfs3//M00//B9//F9//ChOxM1xIEDOAbu7VAAAWn39BUY0523.png",
+      "type": null,
+      "fee": null,
+      "fee_eur": null
+    }
+  ],
+  "honours": [
+    {
+      "name": "中国足球超级联赛冠军",
+      "count": 1,
+      "logo": "https://sd.qunliao.info/fastdfs6/M00/54/E0/rBUESWGKLJaAfgRfAADkcrII63o040.png"
+    }
+  ],
+  "injuries": [],
+  "name_zh": "杨铭锐",
+  "age": 19,
+  "photo": "https://sd.qunliao.info/fastdfs8/M00/58/E1/rBXRDGqf5pqALgq0AAAd8pApmgA375.jpg",
+  "position": "midfielder",
+  "u21": true,
+  "captain": false,
+  "season_stats": {
+    "apps": 31,
+    "goals": 3,
+    "assists": 2
+  },
+  "links": {
+    "dongqiudi": "https://www.dongqiudi.com/player/50839727.html",
+    "fbref": null,
+    "transfermarkt": null
+  }
+}
