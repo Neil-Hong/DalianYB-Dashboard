@@ -140,4 +140,4 @@ body:has(> .theme-dark) {
 body:has(> .theme-dark) .site-header { background: rgb(5 13 36 / .82); backdrop-filter: blur(10px); }
 
 /* view wrappers only exist to scope each view's stylesheet (@scope); they don't affect layout */
-.v-home, .v-fixtures, .v-news, .v-squad, .v-player, .v-gallery, .v-exhibit { display: contents; }
+.v-home, .v-fixtures, .v-news, .v-squad, .v-player, .v-gallery, .v-exhibit, .v-stats { display: contents; }

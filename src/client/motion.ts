@@ -17,7 +17,7 @@ const RULES: [string, Variant][] = [
   ],
   ["main .card, .pos > h2, .month > h2, .day > h2, .filters, .more", "up"],
 ];
-const COUNT = ".hero-stats dd, .pstats dd, .facts dd, .sum-r b, .lval";
+const COUNT = ".hero-stats dd, .pstats dd, .facts dd, .sum-r b, .lval, .kpi dd";
 const STEP: Record<Variant, number> = { up: 70, row: 35, scale: 90, pop: 60, mask: 90 };
 const MAX_DELAY = 700;
 

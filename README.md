@@ -100,6 +100,19 @@ changes; to animate a new kind of element, add its selector to `RULES` (and to t
 list at the top of `motion.css`). Everything is off with reduced motion, and the gallery and
 homepage intro keep their own animation.
 
+## Stats page
+
+`/stats` (and `/stats/<season>` for past seasons) is a season dashboard built only from data the
+scraper already collects: headline numbers, points race against earlier seasons, form and
+streaks, goals per match, home vs away, scoreline grid, rolling form, results by competition,
+league context from the table (attack vs defence, points) and a season comparison.
+
+- Calculations: `src/lib/stats.ts` (pure functions over fixtures and the league table).
+- Charts: `src/components/charts/`, a small kit of client-side SVG charts that size themselves
+  to their container, with tooltips, draw-in animations (off with reduced motion) and an
+  accessible data table under each chart. Styles in `src/styles/components/charts.css`.
+- Text: `src/i18n/stats.ts`.
+
 ## Languages
 
 English is the default (`/`), Chinese lives under `/zh/`. UI text is in `src/i18n/index.ts`.

@@ -126,7 +126,7 @@ export const fmtYearMonth = (lang: Lang, ym: string) =>
 
 const ui = {
   en: {
-    "nav.home": "Home", "nav.news": "News", "nav.fixtures": "Fixtures", "nav.table": "Table", "nav.squad": "Squad", "nav.gallery": "Gallery",
+    "nav.home": "Home", "nav.news": "News", "nav.fixtures": "Fixtures", "nav.table": "Table", "nav.squad": "Squad", "nav.gallery": "Gallery", "nav.stats": "Stats",
     "gallery.title": "Gallery", "gallery.description": "Dalian Yingbo in pictures: the stadium, the supporters, the tifo and the title-winning season.",
     "gallery.stadium": "Stadium", "gallery.supporters": "Supporters", "gallery.tifo": "Tifo", "gallery.champion": "Champions",
     "gallery.hint": "Scroll or drag", "gallery.open": "Open", "gallery.back": "Gallery", "gallery.photos": "{n} photographs",
@@ -176,7 +176,7 @@ const ui = {
     "news.video": "Video", "news.unknownDate": "Date unknown",
   },
   zh: {
-    "nav.home": "首页", "nav.news": "新闻", "nav.fixtures": "赛程", "nav.table": "积分榜", "nav.squad": "阵容", "nav.gallery": "图集",
+    "nav.home": "首页", "nav.news": "新闻", "nav.fixtures": "赛程", "nav.table": "积分榜", "nav.squad": "阵容", "nav.gallery": "图集", "nav.stats": "数据",
     "gallery.title": "图集", "gallery.description": "图说大连英博：球场、球迷、TIFO 与冠军时刻。",
     "gallery.stadium": "球场", "gallery.supporters": "球迷", "gallery.tifo": "TIFO", "gallery.champion": "冠军",
     "gallery.hint": "滚动或拖动", "gallery.open": "进入", "gallery.back": "图集", "gallery.photos": "{n} 张照片",

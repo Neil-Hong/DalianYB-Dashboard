@@ -1,0 +1,45 @@
+/* Styles for StatsView (src/views/StatsView.tsx). Rules inside @scope apply only within that view. */
+
+@scope (.v-stats) {
+  .seasons { display: flex; gap: 6px; margin-top: 14px; flex-wrap: wrap; }
+  .seasons a { text-decoration: none; padding: 4px 12px; border-radius: 999px; border: 1px solid var(--line); font-size: 14px; background: var(--surface); }
+  .seasons a.active { background: var(--navy); color: #fff; border-color: var(--navy); }
+
+  /* headline numbers */
+  .kpis { margin: 0 0 20px; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+  .kpi { padding: 14px 16px; display: flex; flex-direction: column; gap: 4px; position: relative; overflow: hidden; }
+  .kpi::after { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--line); }
+  .kpi.gold::after { background: var(--gold); }
+  .kpi dt { font-size: 12px; color: var(--muted); }
+  .kpi dd { margin: 0; font-size: 28px; font-weight: 900; line-height: 1.1; font-variant-numeric: tabular-nums; }
+  .kpi dd i { font-style: normal; font-weight: 400; color: var(--muted); margin: 0 3px; }
+  .kpi dd.pos { color: var(--win); }
+  .kpi dd.neg { color: var(--loss); }
+  .kpi.gold dd { color: var(--gold); }
+
+  /* chart grid: two columns, wide cards span both */
+  .st-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: stretch; }
+  .st-grid > .wide { grid-column: 1 / -1; }
+  @media (max-width: 900px) { .st-grid { grid-template-columns: minmax(0, 1fr); } }
+
+  /* form */
+  .form-card { display: flex; flex-direction: column; gap: 16px; }
+  .form-strip { list-style: none; margin: 0; padding: 0; display: flex; gap: 6px; flex-wrap: wrap; }
+  .form-strip li { display: flex; flex-direction: column; align-items: center; gap: 3px; cursor: default; }
+  .form-strip .result-pill { width: 30px; height: 30px; font-size: 13px; border-radius: 8px; }
+  .form-strip small { font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .facts { margin: 0; display: grid; gap: 0; }
+  .facts div { display: flex; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+  .facts div:last-child { border-bottom: 0; }
+  .facts dt { color: var(--muted); }
+  .facts dd { margin: 0; font-weight: 700; text-align: right; }
+
+  .ha-records { display: flex; justify-content: space-between; margin: 4px 0 0; font-size: 12px; color: var(--muted); }
+
+  .comp-table tr.muted td { color: var(--muted); }
+
+  @media (max-width: 560px) {
+    .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .kpi dd { font-size: 24px; }
+  }
+}

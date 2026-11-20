@@ -10,6 +10,7 @@ const NAV: { p: string; key: UIKey }[] = [
   { p: "/news", key: "nav.news" },
   { p: "/fixtures", key: "nav.fixtures" },
   { p: "/table", key: "nav.table" },
+  { p: "/stats", key: "nav.stats" },
   { p: "/squad", key: "nav.squad" },
   { p: "/gallery", key: "nav.gallery" },
 ];

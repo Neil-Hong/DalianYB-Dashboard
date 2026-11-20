@@ -1,20 +1,16 @@
 /**
  * Full-screen 3D intro. Only the homepage renders this component, so the route alone decides
  * when it plays: every load, refresh or return to the homepage, and never on other pages.
+ * The overlay is put up before first paint by the boot script in RootDocument (homepage paths only).
  * /?introAt=3.5 freezes the sequence at 3.5 s (for tweaking).
  */
 import { vars } from "../lib/cx";
 import IntroClient from "../client/IntroClient";
 import "../styles/components/intro.css";
 
-// runs while the HTML is parsed, before first paint, so the homepage never flashes underneath
-const PRE_PAINT = `document.documentElement.classList.remove("intro-off");
-document.documentElement.classList.add("intro-on");`;
-
 export default function Intro({ lang }: { lang: "en" | "zh" }) {
   return (
     <>
-      <script dangerouslySetInnerHTML={{ __html: PRE_PAINT }} />
       <div id="intro" className="intro" role="dialog" aria-modal="true" aria-label={lang === "zh" ? "大连英博 开场动画" : "Dalian Yingbo intro"}>
         <div className="intro-bg" aria-hidden="true"></div>
         <canvas className="intro-canvas" aria-hidden="true"></canvas>
