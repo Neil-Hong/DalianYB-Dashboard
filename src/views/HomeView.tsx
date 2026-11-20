@@ -3,6 +3,7 @@ import MatchRow from "../components/MatchRow";
 import StandingsTable from "../components/StandingsTable";
 import NewsCard from "../components/NewsCard";
 import Intro from "../components/Intro";
+import ChampionStar from "../components/ChampionStar";
 import { news, pinnedNews } from "../lib/news";
 import { club, squad, standings, currentSeason, nextMatch, playedMatches, isChampion, personName, LEAGUE } from "../lib/data";
 import { t, tr, href, fmtFullDate, fmtTime, type Lang, type UIKey } from "../i18n";
@@ -51,7 +52,10 @@ export default function HomeView({ lang }: { lang: Lang }) {
                 </dl>
               )}
             </div>
-            <img className="hero-logo" src={club.logo} alt={club.name_en} width={220} height={220} />
+            <div className="hero-crest">
+              {champion && <ChampionStar title={t(lang, "home.champion", { season: currentSeason })} />}
+              <img className="hero-logo" src={club.logo} alt={club.name_en} width={220} height={220} />
+            </div>
           </div>
         </section>
 

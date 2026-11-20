@@ -8,7 +8,7 @@ type Variant = "up" | "row" | "scale" | "pop" | "mask";
 // first match wins, so more specific rules come first
 const RULES: [string, Variant][] = [
   [".page-head h1, .hero h1, .phero h1", "mask"],
-  [".hero-logo, .phero .avatar", "scale"],
+  [".hero-crest, .phero .avatar", "scale"],
   [".pills .result-pill, .next .side img", "pop"],
   [".page-head > *, .hero-text > *, .phero-inner > div > *", "up"],
   [

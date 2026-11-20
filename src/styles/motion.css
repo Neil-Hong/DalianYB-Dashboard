@@ -21,7 +21,7 @@
 /* Before src/scripts/motion.ts has tagged the targets, keep them invisible so nothing flashes.
    Keep this list in sync with RULES there. The layout adds .rv-ready after 3 s as a safety net. */
 html.motion:not(.rv-ready) body:not(:has(> .theme-dark)) :is(
-  .page-head > *, .hero-text > *, .hero-logo, .phero-inner > div > *, .phero .avatar,
+  .page-head > *, .hero-text > *, .hero-crest, .phero-inner > div > *, .phero .avatar,
   main .card, .pos > h2, .month > h2, .day > h2, .filters,
   main .list > li, main .feed > li, .leader li, .club-facts dl > div, main table.data tbody tr
 ) { opacity: 0; }
@@ -105,13 +105,13 @@ table.data tbody tr:hover .team-logo { transform: scale(1.18); }
   animation: hero-glow 16s ease-in-out infinite alternate;
 }
 @keyframes hero-glow { to { transform: translate3d(-18vmax, 14vmax, 0) scale(1.15); } }
-.hero-logo { animation: float 7s ease-in-out infinite; }
+.hero-crest { animation: float 7s ease-in-out infinite; }
 @keyframes float { 50% { translate: 0 -8px; } }
 .champ span { display: inline-block; animation: star-spin 6s var(--ease-out) infinite; }
 @keyframes star-spin { 0%, 70% { transform: none; } 85% { transform: rotate(144deg) scale(1.25); } 100% { transform: rotate(144deg); } }
 
 @media (prefers-reduced-motion: reduce) {
   @view-transition { navigation: none; }
-  .hero::before, .phero::before, .hero-logo, .champ span { animation: none; }
+  .hero::before, .phero::before, .hero-crest, .champ span { animation: none; }
   *, *::before, *::after { transition-duration: .01ms !important; }
 }
