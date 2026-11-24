@@ -17,7 +17,18 @@ const BOOT = `(function () {
     html.classList.add("motion");
     setTimeout(function () { html.classList.add("rv-ready"); }, 3000);
   }
-  if (/^\\/(zh\\/?)?$/.test(location.pathname)) { html.classList.remove("intro-off"); html.classList.add("intro-on"); }
+  // switching language is not a new visit: the language links leave a one-shot note so the
+  // homepage in the other language opens without the intro
+  var skip = false;
+  try { skip = sessionStorage.getItem("yb-lang-switch") === "1"; sessionStorage.removeItem("yb-lang-switch"); } catch (e) {}
+  if (/^\\/(zh\\/?)?$/.test(location.pathname)) {
+    html.classList.remove(skip ? "intro-on" : "intro-off");
+    html.classList.add(skip ? "intro-off" : "intro-on");
+  }
+  document.addEventListener("click", function (e) {
+    var a = e.target && e.target.closest && e.target.closest(".lang-switch a");
+    if (a && !a.classList.contains("active")) { try { sessionStorage.setItem("yb-lang-switch", "1"); } catch (err) {} }
+  });
   ["pageswap", "pagereveal"].forEach(function (type) {
     addEventListener(type, function (e) {
       var vt = e.viewTransition;

@@ -7,12 +7,12 @@ import BackToTop from "../../client/BackToTop";
 
 const NAV: { p: string; key: UIKey }[] = [
   { p: "/", key: "nav.home" },
+  { p: "/gallery", key: "nav.gallery" },
+  { p: "/stats", key: "nav.stats" },
   { p: "/news", key: "nav.news" },
   { p: "/fixtures", key: "nav.fixtures" },
   { p: "/table", key: "nav.table" },
-  { p: "/stats", key: "nav.stats" },
   { p: "/squad", key: "nav.squad" },
-  { p: "/gallery", key: "nav.gallery" },
 ];
 
 interface Props {

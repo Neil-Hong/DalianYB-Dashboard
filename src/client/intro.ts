@@ -26,6 +26,8 @@ export function initIntro(): () => void {
   const html = document.documentElement;
   const root = document.getElementById("intro");
   if (!root) return () => {};
+  // the boot script hides the intro when the visitor arrived by switching language
+  if (html.classList.contains("intro-off")) return () => {};
 
   showIntroOverlay(); // the pre-paint script did this on a direct load; needed after client navigation
 
